@@ -1,0 +1,94 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+EMS SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 148–258
+============================================================
+
+EMS 2-0 — EMT TREATMENT PROTOCOLS
+------------------------------------
+
+**Scope:** EMS 2-0 governs EMT (Basic) treatment protocols. All suppression personnel certified at the EMT-B level operate under these protocols when providing patient care. The protocols define what treatments and interventions are authorized at the EMT level without direct medical direction.
+
+**Protocol authority:** All EMT and paramedic protocols operate under the medical direction of the OFD Medical Director. Personnel may not deviate from protocols without consulting medical direction. Any treatment outside protocol scope requires online medical direction (radio/phone contact with the receiving physician or medical director).
+
+**Documentation:** Patient care is documented on the FRMS patient care report. Accurate, complete documentation is both a clinical requirement and a legal protection for the crew and the department. The Captain or crew officer reviews documentation before submission.
+
+**BC oversight:** The BC does not typically direct patient care — that is the medic crew's domain. The BC's role is scene management, resource coordination, and ensuring the crew has what they need. If clinical concerns arise, the BC supports the crew in obtaining medical direction.
+
+
+EMS 5-0 — MULTI-CASUALTY INCIDENT RESPONSE
+--------------------------------------------
+
+**MCI Level thresholds:** Level I — 10 to 25 victims. Level II — 26 to 50 victims. Level III — 51 or more victims. Levels I and II trigger automatic additional dispatch through 911. Level III may require activation of the Emergency Operations Center (EOC) and county/regional mutual aid.
+
+**Automatic Level I dispatch:** Upon confirmation of 10 or more victims, 911 automatically dispatches a full First Alarm fire response, the Paramedic Shift Supervisor (PSS), 5 additional Medic Units, and the Mass Casualty Trailer. Do not wait for exact victim counts before requesting this response — if conditions suggest 10 or more victims, declare Level I and let dispatch confirm.
+
+**Medical Branch positions:** Medical Branch Director (reports to Operations Section Chief or IC) → Triage Group Supervisor → Treatment Group Supervisors (Red, Yellow, Green) → Transport Group Supervisor → Morgue Group Supervisor (if needed). Each Group Supervisor manages their functional area and reports to the Medical Branch Director.
+
+**START triage at MCI:** Every victim receives a START triage assessment in 30 seconds or less. Check: Is the victim walking? (Green). Respirations — if absent, reposition airway; still absent = Black. Respiratory rate — greater than 30 = Red. Radial pulse — absent = Red. Mental status — unable to follow commands = Red. If respirations present, rate under 30, radial pulse present, and follows commands = Yellow. Color tag is applied and victim is moved to the appropriate Treatment Area. Do not stop to treat during triage — move on to the next victim.
+
+**Treatment Areas:** Red (Immediate) — life-threatening, survivable with rapid intervention; staffed by paramedics. Yellow (Delayed) — serious but stable; can wait for transport. Green (Minor) — walking wounded; directed to a designated collection area. Black (Expectant/Deceased) — injuries not survivable with available resources; moved to morgue area.
+
+**Transport Group coordination:** The Transport Group Supervisor coordinates with hospitals via Dispatch. Load Red patients first, distribute across multiple facilities. Maintain a patient tracking log matching patient number, triage category, destination hospital, and transport unit. This is essential for family notification and surge management.
+
+
+EMS 5-1 — TRIAGE TAG PROCEDURES
+----------------------------------
+
+**Tag structure:** Each triage tag has a unique tracking number and barcode on each perforated tab. If there is no contamination or WMD concern, remove and discard the Magenta contamination tab immediately. The remaining tabs correspond to triage levels — they are removed as the patient progresses through triage, treatment, and transport, providing a paper trail.
+
+**Applying the tag:** Attach the tag to the patient at initial triage — typically to the wrist or ankle. The tag must remain with the patient throughout the incident. The corresponding tracking tabs are retained by the Triage Group for documentation. The barcode enables electronic patient tracking when scanning equipment is available.
+
+**Re-triage:** Triage is not static — patient conditions change. Yellow patients can deteriorate to Red. The Treatment Group Supervisors continuously reassess patients and update tags accordingly. Notify the Medical Branch Director and Transport Group when priority changes occur.
+
+
+EMS 7-0 — TRANSPORT CODES AND MODE OF RESPONSE
+------------------------------------------------
+
+**Transport codes for medic units:** Code 1 — minimal or no apparent disease or injury, non-emergency, no lights or siren, follows all traffic laws. Code 2 — obvious illness or injury, not serious, non-emergency, no lights or siren. **Code 3 — serious injury or illness requiring immediate care, lights and siren, do not exceed 45 MPH.** Code 4 — D.O.A., non-emergency. Code 99 — life-threatening, CPR in progress, same response as Code 3. (These mirror OPS 1-0 — know them both ways.)
+
+**Officer discretion for Code 2 to Code 3 upgrade:** The officer in charge may upgrade a Code 2 transport to Code 3 when patient condition or a traffic delay warrants it. Use good judgment — return to non-emergency once clear of the traffic situation. Lights and siren shall not be used intermittently to clear intersections or for any other reason.
+
+**Hospital of Choice (HOC) policy:** Patients may request transport to their hospital of choice when medically appropriate and the additional transport time does not compromise their care. The medic crew makes the clinical determination whether HOC is appropriate. During severe weather modified response, HOC is suspended and patients are transported to the nearest appropriate facility.
+
+**Bio-contaminated patient transport (EMS 7-0-1):** Patients known or suspected to be bio-contaminated require special transport precautions. The medic crew dons appropriate PPE before patient contact. The receiving facility is notified in advance of the patient's arrival and contamination status. The transport unit is decontaminated after the call per decon protocols.
+
+
+EMS 11-0 — SPECIALTY PAY AND AUTHORIZATION TO FUNCTION
+--------------------------------------------------------
+
+**State-certified paramedics:** Per the union contract, personnel who hold a valid Nebraska State Paramedic certification and are authorized by OFD to function at the paramedic level receive specialty pay of **13%** above base pay (for assignment to a paramedic unit) or **5%** above base pay (for suppression personnel certified but not assigned to a paramedic unit). A flat **$1.50 per hour** additional rate also applies in some contract configurations — confirm current contract language.
+
+**Authorization to function:** Personnel must be authorized by OFD and the Medical Director to function at their certification level. Certification alone does not authorize practice — the department authorization is required. Personnel operating outside their authorization level are subject to discipline and may have personal liability.
+
+**Remediation process (EMS 6-1):** Personnel who fail to meet clinical performance standards may be placed in a remediation process. The BC is notified of the remediation and must ensure the member completes the required steps. The member may not return to their paramedic function until the Medical Director and administration clear them.
+
+
+EMS 16-0 — ALS APPARATUS AND DOCUMENTATION
+--------------------------------------------
+
+**ALS apparatus assignments:** Advanced Life Support (ALS) apparatus carry paramedic-level equipment and are staffed by at least one state-certified and OFD-authorized paramedic. The ALS apparatus responds to all Code 3 medical calls and any incident where ALS capability is indicated.
+
+**Documentation requirements:** Every patient contact requires a patient care report documenting: patient demographics, chief complaint, history, assessment findings, treatments provided, patient response to treatment, and transport disposition. The report must be completed before the end of shift. The BC reviews reports from their battalion for completeness and accuracy.
+
+**Zoll equipment:** OFD uses the Zoll AED Pro (EMS 8-0), Zoll Auto Pulse mechanical CPR device (EMS 8-2), and 12-Lead ECG acquisition (EMS 8-1). All suppression personnel are trained on AED use. Paramedics perform 12-lead acquisition and interpretation per protocol.
+
+
+FIU 2-0, 4-2, 4-3 — FIRE INVESTIGATION UNIT
+----------------------------------------------
+
+**FIU mission:** The Fire Investigation Unit investigates fires to determine origin, cause, and circumstances. FIU responds to all working structure fires, any fire with injuries or fatalities, and suspicious fires. The FIU BC oversees the unit and coordinates with law enforcement on criminal investigations.
+
+**Origin and cause determination:** FIU uses systematic investigation methodology to identify where the fire started (origin) and what ignited it (cause). Accidental, natural, undetermined, and incendiary are the four cause categories. Incendiary findings are coordinated with the Omaha Police Department.
+
+**Scene preservation:** The BC on scene at the initial fire must preserve the fire scene for FIU investigation. Overhaul should be minimized until FIU clears the scene or the IC confirms investigation is complete. Do not remove debris or disturb potential evidence without FIU authorization unless necessary for safety.
+
+
+FPE 2-0, 3-1, 7-0 — FIRE PREVENTION
+--------------------------------------
+
+**Fire Prevention Division:** The Fire Prevention Division (FPD) conducts fire inspections, reviews building plans, investigates code violations, and educates the public. The Assistant Fire Marshal reports to the FPD BC.
+
+**BC coordination with FPE:** When suppression companies identify fire code violations during fire responses, they issue an OFD 104 citation. The OFD 104 is distributed — white copy to owner, yellow copy to FPD with a compliance date — and followed up by fire companies before returning to FPD. If not corrected, the pink copy is returned to FPD for enforcement.
+
+**Target hazard pre-planning:** FPE maintains pre-plans for target hazard properties. BCs should ensure their companies are familiar with the pre-plans for properties in their battalion territory, including high-rise buildings, hospitals, schools, and industrial facilities.
+

@@ -1,0 +1,133 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+SAFETY AND WELLNESS SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 687–738
+============================================================
+
+SWD 1-0 — PROTECTIVE EQUIPMENT AND CLOTHING
+---------------------------------------------
+
+**Full protective clothing requirements:** Full PPE must be worn when responding to fire alarms, still alarms, or any situation requiring its protective qualities. Full protective clothing consists of: (1) helmet with face shield, (2) protective hood, (3) turnout coat, (4) bunker pants, (5) boots, and (6) gloves. Optional for drivers, chief officers, and rescue squad personnel; company officers have discretion for some situations.
+
+**SCBA requirements:** All OFD personnel operating in hazardous or IDLH environments must be equipped with and trained on SCBA. SCBA is mandatory whenever operating in any atmosphere that is or may be IDLH. This includes interior fire attack, overhaul operations where smoke or carbon monoxide is present, confined space entry, and HazMat hot zone operations.
+
+**PAT tag as PPE:** The Personnel Accountability Tag (PAT) is listed as item 17 of the required safety equipment, alongside seat belts. Wearing your PAT is not optional — it is a safety requirement. The PAT enables the accountability system to function, and the accountability system protects your life.
+
+**PPE cleaning procedures:** Use water not exceeding 105°F to prevent damage to PPE materials. Wear protective gloves and eye protection when cleaning. Scrub gently with a soft-bristle brush, then rinse thoroughly. Inspect PPE after cleaning — rewash or submit for advanced cleaning if contamination remains. Contact TSD (Technical Services Division) if stronger cleaning agents are needed. **PPE must never be dried in a drying machine or commercial dryer.** Air dry only, per manufacturer instructions.
+
+**Hazmat-contaminated gear:** The Company Officer determines if contaminated gear should be cleaned at the station, sent to a verified industrial service provider through TSD, or assessed on scene by R33/R60. If returning contaminated gear to the station, follow the post-fire exposure procedures in SWD 1-0-1.
+
+**Leather boot program:** Members may purchase TSD-approved leather fire boots in place of rubber boots. The city contributes $100 toward the cost. To qualify, current boots must be worn or damaged, an OFD 11 must be submitted through the chain of command, and the member must schedule a fitting at TSD (Station 54) once approved.
+
+**Safety eyewear:** Operators of power saws or hydraulic rescue tools must wear department-issued safety eyewear when SCBA is not required. Helmet face shields are not sufficient for tool operators — nearby personnel use face shields but operators must use safety glasses.
+
+
+SWD 1-0-1 — POST-FIRE EXPOSURE PROTECTION PROCEDURES
+------------------------------------------------------
+
+**Background:** Products of combustion — including carcinogens — penetrate firefighting gear during interior fire operations. Post-fire exposure procedures are designed to reduce the amount of time firefighters are in contact with contaminated equipment and surfaces.
+
+**Hood exchange policy:** All personnel have been issued a second hood. After every IDLH exposure, personnel must: (1) remove the contaminated hood and place it in the white mesh bag provided on each apparatus, (2) wash exposed skin (face, neck, hands) with soap and water or provided wipes, and (3) don the clean second hood before any further operations. The contaminated hood is cleaned before being returned to service.
+
+**Mandatory Rehab at working incidents:** Rehab must be set up and operating at all working incidents. The IC, ISO, PSS, and Captains must actively ensure crews are sent to Rehab on a regular basis — rotation through Rehab is mandatory for everyone, not optional. The IC must ensure that companies who were first on scene are given relief and sent to Rehab. The Rehab area must be established upwind and upgrade from the incident whenever conditions permit.
+
+
+SWD 1-1 — PERSONNEL ACCOUNTABILITY PROCEDURES
+-----------------------------------------------
+
+**Purpose of accountability:** OFD's accountability system ensures supervisors know who is operating, what assignment they are responsible for, and where they are operating at all times. The system must prevent freelancing and provide the ability to rapidly locate any member in a MAYDAY situation.
+
+**Four-component system:** PAT tags + SEMS II technology + ICS riding position + functional accountability (supervisors knowing where their people are). No single component is sufficient — all four work together.
+
+**PAT tag system:** Each member's PAT tag is attached to their SCBA. When a company checks in at the Entry Control Point, the Captain submits all crew PATs on the Captain's PAT Ring. The Accountability Manager maintains the PAT Ring and tracks who is inside the hazard zone. When the crew exits, their PATs are returned.
+
+**AWOGS SCBA identification:** Two nomex identifiers attach to the SCBA straps with Velcro — a larger identifier on the rear bottle strap and a smaller one on the right shoulder strap. These identifiers display the member's name, alias, and crew assignment for visual identification from a distance.
+
+**Alias system:** Each riding position on each apparatus has an assigned alias (e.g., E-53 Captain, E-53 FF-1, E-53 FF-2). The alias is programmed into the portable radio and the SEMS PASS device. Aliases must match between the radio and SEMS — mismatches are identified in monthly alias checks performed on the **1st Saturday of each month.** External markings on radios and SEMS devices must match the assigned alias and are checked at the same time.
+
+**Entry Control:** The Entry Control officer is posted at the primary entry point to the hazardous area. Every member entering records: name, alias, assignment, air supply level, and time of entry. Exits are documented with time. If a member exits at a point remote from entry control, they must radio entry control personnel of their exit. Members unaccounted for must be immediately reported to the IC — initiate MAYDAY procedures.
+
+
+SWD 1-3 — SEMS II: SCOTT ELECTRONIC MANAGEMENT SYSTEM
+-------------------------------------------------------
+
+**Purpose:** SEMS II is one component of OFD's accountability system. Its main function is to monitor SCBA-equipped personnel inside the hazard zone and provide early warning of a distressed firefighter through PASS alarm monitoring and signal transmission to the base station.
+
+**How SEMS works:** Each SCBA has a SEMS PASS device (shoulder console with a red MAYDAY button, yellow ACKNOWLEDGE/EVACUATE button, and gray WITHDRAW button). The base station (operated by the Accountability Manager outside the hazard zone) displays each member's alias and status in real time. The base station can send EVACUATE signals to individual devices or all devices simultaneously.
+
+**SEMS signals:**
+- **Red MAYDAY button** — manually activates the PASS alarm. Used in Step 2 of MAYDAY procedures (OPS 10-1). Press the red center button. The PASS alarm activates both locally (audible alarm from the device) and at the base station (alias highlights in red).
+- **Yellow button** — acknowledges an EVACUATE signal from the base station. Personnel press the yellow button **twice** to acknowledge the EVACUATE order. The icon changes from flashing yellow to gray with a check mark at the base station.
+- **Gray WITHDRAW button** — held for **2 seconds** to send a WITHDRAW acknowledgment to the Accountability Manager. The indicator light blinks yellow, then turns solid yellow when the base station acknowledges.
+
+**Out-of-range signals:** If a SEMS device loses communication with the base station, a yellow out-of-range light blinks on the device and the base station. This typically occurs when personnel move to areas with poor signal (basement, far side of large structure). The Accountability Manager notifies the IC and positions other firefighters to attempt to re-link the signal. Up to 60 seconds may be needed to re-establish the link. If a yellow out-of-range signal turns to a red out-of-range signal, the IC must be notified immediately and may need to consider it a potential emergency.
+
+**SEMS and air management:** When the SCBA cylinder is changed or replaced during an incident, the SEMS monitor will show a low-air alarm activation. The Accountability Manager and IC must be aware that crew members in Rehab changing cylinders will trigger this — use ICS assignments and accountability documents to distinguish cylinder changes from genuine air emergencies.
+
+**Manual accountability backup:** Manual, functional accountability procedures (Initial Fire Attack Worksheet and Tactical Worksheet) remain in operation at all times per SWD 1-1. SEMS is a supplemental tool — if SEMS fails, manual accountability continues uninterrupted.
+
+
+SWD 1-3-1 — SEMS II TROUBLESHOOTING
+--------------------------------------
+
+**Out-of-range resolution:** When a member or crew goes out of range, the Accountability Manager notifies Command/Operations immediately. Command positions other firefighters with active SEMS units to attempt to repeat the out-of-range signals — acting as a relay between the out-of-range device and the base station. Allow up to 60 seconds for re-linking. If the link cannot be re-established and the member's location cannot otherwise be confirmed, initiate MAYDAY procedures.
+
+**False alarms:** SCBA cylinder changes, intentional PASS activations during training, and signal 88 situations generate SEMS alarms that are not emergencies. The Accountability Manager must confirm the nature of any alarm with the member or their supervisor before treating it as an emergency — but if confirmation cannot be obtained within 60 seconds, treat it as a genuine MAYDAY.
+
+
+SWD 5-0-1 — BIOLOGICAL EXPOSURE REPORTING
+-------------------------------------------
+
+**Significant exposure defined:** A significant exposure is a documented exposure to blood or body fluids through a break in skin, mucous membrane contact, or needlestick from a known or suspected infectious patient. Significant exposures trigger the formal reporting and follow-up process.
+
+**Reporting process:** All biological exposures must be reported using the OFD 6B application on the OFD Health and Wellness Website. The exposed employee completes the form and submits it to the Infection Disease Control Officer (IDCO). Time-critical exposures (HIV, Hepatitis B) require immediate evaluation — do not wait until end of shift.
+
+**Source person testing:** Identifying and testing the source patient is critical for determining post-exposure prophylaxis needs. Source persons who are cooperative should be tested before leaving the scene or as soon as possible. If the source person dies, testing becomes impossible after embalming — act quickly.
+
+**Contamination-only (non-significant) exposure:** Lesser exposures without a significant risk of transmission are documented using the OFD 6B form as a contamination record rather than a significant exposure report. Examples include transporting a patient with an active tuberculosis infection or exposure to a known or suspected infected patient without a breach of protective equipment.
+
+
+SWD 5-0-2 — HAZMAT EXPOSURE REPORTING
+----------------------------------------
+
+**Purpose:** Provides reporting procedures for on-duty hazardous materials exposures — exposure to chemicals, fumes, or substances during HazMat incidents or other incidents where hazardous materials are present.
+
+**Reporting process:** The exposed employee completes the OFD 6c HazMat Exposure form through the OFD Health and Wellness Website using their work username and password. The form is submitted to the IDCO. Complete the form as soon as possible after the exposure — do not delay documentation.
+
+
+SWD 6-0 — FIRE PERSONNEL REHAB
+---------------------------------
+
+**Why Rehab matters:** Stress — particularly heat exposure — is one of the leading causes of firefighter death and injury. Cardiovascular events are the number one cause of on-duty firefighter fatalities nationwide. 83–91% of firefighters arrive at an incident in a dehydrated state. Rehab is the primary defense against heat-related illness and cardiovascular events on the fireground.
+
+**Rehab location:** The IC or Rehab Group Supervisor selects a location **upwind and upgrade** from the incident unless conditions dictate otherwise. Dispatch is notified of the Rehab location so incoming support units can find it. The Rehab area must be accessible to medic units for patient transport if needed.
+
+**Rehab staffing:** A minimum of **two medic personnel** (preferably four) staff the Rehab Group. The EMS BC, when available, is in charge. If the EMS BC is unavailable, the PSS or a Lead Medic assumes command. The ISO must ensure Rehab is functioning.
+
+**Rehab entry and documentation:** Personnel enter Rehab as a company and remain together. Rehab personnel record entry time, crew names, number of SCBA cylinders used, and complete vital signs: BP, pulse, respirations, temperature, skin condition, oxygen saturation, and CO level via CO-oximeter. **Use the OFD-293 Incident Rehabilitation Report** to document each member's time, cylinder count, vitals, and Rehab medic assessment.
+
+**Mandatory trigger:** **Personnel must go to Rehab after using two SCBA cylinders** unless the Danger heat stress level (per the Heat Stress Index) is in effect — in which case more frequent rotation is required. The IC must enforce this — it is not the firefighter's individual choice.
+
+**Hydration:** Personnel should pre-hydrate throughout the shift before an incident. On-scene, provide water or appropriate sports drink. Avoid caffeine and sugary drinks. Proper hydration is the single most effective prevention against heat-related illness.
+
+**Rehab release criteria:** Before release, Rehab personnel assess each member. Three possible dispositions: (1) Cleared for duty — vital signs normal, no symptoms, member can safely perform full duty. (2) Extended Rehab — member needs additional rest; no companies leave until all members are cleared. (3) Medical treatment and/or transport — member requires ALS intervention or hospital evaluation.
+
+
+SWD 7-0 — VACANT / DANGEROUS STRUCTURE POLICY
+-----------------------------------------------
+
+**Marking dangerous structures:** When a structure is identified as vacant and dangerous following a fire or inspection, OFD marks it using the standardized OFD diamond-shaped dangerous structure marker. The marker is placed at the address-side entry point so approaching personnel can identify it before entry. If the structure has multiple entry points (corner lot), each entry is marked.
+
+**Post-fire notification:** If the IC at a fire determines a structure is dangerous for future occupancy or emergency operations, they notify FIU (Fire Investigation Unit) immediately. FIU evaluates and, if warranted, initiates the dangerous structure designation process.
+
+**Vacant/Dangerous Coordinator:** The FIU BC or designee maintains a spreadsheet of all designated Vacant/Dangerous Structures and manages the OmaF_Vacant_Dangerous_Structure mailbox. The City of Omaha Planning Department accesses this information to prioritize demolition or board-up. BCs must be aware of dangerous structures in their territory and brief their companies accordingly.
+
+
+SWD 8-0 — POST-INCIDENT ANALYSIS
+----------------------------------
+
+**Hot wash:** An immediate, informal debrief conducted at the scene or in quarters right after the incident. Every working fire or significant incident should have a hot wash. The IC leads it — all involved personnel participate. Focus: what went well, what should be done differently, any immediate safety concerns. The hot wash is not punitive and is not documented as a disciplinary proceeding.
+
+**Formal PIA triggers:** The OFD 401 form documents a formal Post-Incident Analysis. Required for: structure fires at any alarm level, Level I MCIs, Level I or II HazMat incidents, complicated extrications, technical rescues, near-miss events, and any incident the BC or AC determines warrants formal review.
+
+**BC responsibility:** The BC initiates and oversees the PIA for incidents in their battalion. The PIA is submitted through the chain of command and may generate training recommendations, SOP modifications, or equipment changes. The PIA is a learning tool — use it to improve performance, not to assign blame.
+

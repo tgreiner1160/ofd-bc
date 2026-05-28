@@ -1,0 +1,189 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+SPECIAL OPERATIONS SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 596–676
+============================================================
+
+SP OPS 1-0 — HAZARDOUS MATERIALS PROCEDURES
+---------------------------------------------
+
+**OFD HazMat resources:** OFD maintains two HazMat Emergency Response Units. **Rescue 33** is at Station 33, 3232 S. 42nd Street. **Rescue 60** is at Station 60. Both respond to HazMat incidents and Technical Rescue incidents with specially trained personnel and equipment. Engine 33 co-responds with R33 to all HazMat calls.
+
+**HazMat incident levels:**
+- **Level I** — involves a hazardous material in a quantity less than 5 gallons liquid or less than 20 pounds solid, or in its original container with intact labeling, posing a limited threat. First responders can handle with standard PPE and basic HazMat awareness.
+- **Level II** — involves a quantity equal to or greater than 5 gallons liquid or 20 pounds solid, or an unknown quantity or unknown material, or a material that has breached its container. Requires R33 and R60 response.
+- **Level III** — large-scale release requiring regional or national resources, mutual aid, and possible EOC activation.
+
+**Zone structure:** Hot Zone — immediately dangerous, entry requires proper PPE and assignment. Warm Zone — contamination reduction corridor, decon takes place here. **Cold Zone — unrestricted area beyond the outer perimeter of the warm zone.** The Command Post, Staging, and all non-hazmat functions are in the Cold Zone. Zones are marked with banner tape. No entry into a more-restricted zone without proper PPE and an assignment from the IC.
+
+**BC role at HazMat:** The BC establishes Command in the Cold Zone upwind and uphill. Request R33 and R60 if not already dispatched. Establish zones. Do not enter the Hot or Warm Zone. The BC's job is to manage the incident, not to become part of it. The HazMat Group Supervisor (typically R33 or R60 officer) manages operations within the warm zone and reports to the IC.
+
+**DOT hazard classes:** The Emergency Response Guidebook (ERG) classifies hazardous materials by placard. Key classes: Class 1 — Explosives, Class 2 — Gases, Class 3 — Flammable Liquids, Class 4 — Flammable Solids, Class 5 — Oxidizers/Organic Peroxides, Class 6 — Toxic/Infectious, Class 7 — Radioactive, Class 8 — Corrosives, Class 9 — Miscellaneous. The four-digit UN number on the placard identifies the specific material and ERG guide page.
+
+**Motor vehicle accident cleanup:** For hydrocarbon and antifreeze spills from vehicle accidents, OFD follows DEQ regulations. Small spills with known responsible parties — OFD assists, responsible party arranges cleanup. Unknown or large spills — R33/R60 respond and coordinate with Douglas County Environmental Services.
+
+**Hazardous waste storage:** OFD maintains designated hazardous waste storage barrels at various stations. Diesel and other hydrocarbons absorbed with oil-dry or absorbents go into the hydrocarbon barrel. When a responsible party is not present and the material cannot be safely mitigated and disposed at the scene, R33/R60 coordinate with the appropriate environmental agency.
+
+
+SP OPS 1-1 — NATURAL GAS EMERGENCIES
+---------------------------------------
+
+**Natural gas properties:** Natural gas is lighter than air and will rise and accumulate at ceiling level in enclosed spaces. It is colorless, odorless in its pure form (mercaptan is added for detection), and highly flammable when mixed with air.
+
+**LEL thresholds and response:**
+- Below 10% LEL — investigate source, ventilate, do not use ignition sources
+- **10% LEL or greater — evacuate all occupants, retreat immediately, consider the area hazardous.** Retreat to **330 feet (hot zone)** — approximately four houses depending on neighborhood. Another perimeter of 330 feet should be established as a warm zone.
+- Thermostats, HVAC components, doorbells, and light switches are potential ignition sources — contact OPPD and have power secured if safe to do so.
+- If a strong odor of gas is detected or LEL reading reaches 10% or above, do not use any radios or electronic equipment within the hot zone.
+
+**Natural Gas conversion:** 500 PPM = 1% LEL = 0.05% volume in air. 5,000 PPM = 10% LEL (evacuation threshold). The explosive range for natural gas is approximately 5% to 15% volume in air (50,000 to 150,000 PPM). MUD (Metropolitan Utilities District) is contacted through 911 Dispatch.
+
+
+SP OPS 2-0 — RADIOLOGICAL INCIDENT RESPONSE
+---------------------------------------------
+
+**Radiological incident definition:** A situation in which normal control over radioactive materials is lost, posing potential risk to life, property, or the environment. This includes transportation accidents involving radioactive materials, facility incidents, and potential WMD events.
+
+**Initial response:** R33, R60, and R160 respond to known or potential radiological incidents. Be aware of the possibility of secondary devices. **Isolate the spill or leak area for at least 75 feet in all directions.** If the incident is a potential WMD event, expand the perimeter to **1,000 to 4,000 feet.** Only qualified explosive ordnance disposal (EOD) personnel handle potential secondary devices.
+
+**Three principles of radiation protection — Time, Distance, Shielding:**
+- **Time** — minimize exposure time in radiation areas
+- **Distance** — all personnel remain as far from the radiation source as possible; radiation levels decrease as distance increases
+- **Shielding** — use available structural materials as shielding; portable shielding has limited practical value in the field
+
+**Dose limits:** No personnel shall continue activity (except for lifesaving) if accumulated dose exceeds **10 Rem.** For lifesaving activity, the maximum accumulated dose is **25 Rem.** These are hard limits — do not exceed them.
+
+**Notifications:** Contact the Nuclear Physicist at the Veterans Hospital (346-8800), Radiological Assistance Team at Offutt AFB (294-5527), U.S. Nuclear Regulatory Commission, and NEMA (Nebraska Emergency Management Agency) as appropriate for the incident level.
+
+**OFD radiological instruments:** Ludlum 2241-2 (survey meter with scintillator probe), CDV-742 pocket dosimeter, and CDV-750. The scintillator probe detects gamma radiation levels and establishes perimeters. The pancake detector surveys personnel and equipment for contamination in counts per minute. Normal background level is approximately 30-60 counts per minute.
+
+
+SP OPS 3-0 — WMD INCIDENT RESPONSE
+-------------------------------------
+
+**First responder priorities:** Protect yourself first. Never rush in, taste, touch, or smell anything at a suspected WMD scene. Wear full PPE and SCBA as appropriate. Control the scene — identify hot, warm, and cold zones. Anticipate a secondary device — secondary devices are specifically designed to injure first responders. Do not approach a scene where law enforcement has not yet secured the area from secondary device threat.
+
+**Think before acting:** The most important principle at a WMD incident is not to become complacent. The dispatcher's description may not fully capture the situation. Approach all responses with a proactive mindset — consider terrorist acts as a real possibility at any unusual incident involving unexplained casualties or odors.
+
+**Exclusion zone:** **Extend the exclusion zone at least 1,000 to 4,000 feet horizontally and vertically** to reduce injury potential to first responders. The Command Post and staging areas must be located upwind of any explosion site.
+
+**Signs and symptoms of nerve agent exposure:** SLUDGEM — Salivation, Lacrimation, Urination, Defecation, GI distress, Emesis, Miosis (constricted pupils). Other signs include seizures, muscle fasciculations, and bronchospasm. Remove victims from the environment before treatment. Antidotes (atropine, 2-PAM) are administered by paramedics per protocol.
+
+**Local WMD resources:** Douglas County Emergency Management Office (through 911 Dispatch), Offutt AFB Chemical Weapons Team, Douglas County Health Department, Douglas County Crime Lab (mobile Mass Spectrometer), 72nd Civil Support Team (requires request through NEMA and the Governor), Omaha Metro Bus (402-348-0118 for HazMat or drills).
+
+
+SP OPS 3-1 — SUICIDE BOMBING INCIDENTS
+-----------------------------------------
+
+**Pre-blast response:** Stage at a safe distance. OFD does not attempt to stop or intercept suspected bombers — that is law enforcement's role. Do not enter areas where a bomb threat has been made. Tactical paramedics (on and off duty) will be dispatched as resources permit.
+
+**Post-blast priorities:** Establish ICS and implement incident security plan. Assess the scene and call for additional resources. Establish CP and staging upwind. Deploy Mass Casualty Trailers and Tactical Paramedics to appropriate positions. **All personnel entering the hot zone attach their PAT tag chest-high on the outside of their turnout gear** for rapid identification.
+
+**Explosive standoff distances (from OPD SOP):** Vehicle borne IED (car bomb) — minimum 1,500 feet. Suicide vest — minimum 300 feet. Suspicious package — minimum 300 feet. These are minimum safe standoff distances — actual distances may be greater depending on device size.
+
+**Secondary devices:** Always assume secondary devices exist at a post-blast scene. Do not allow any personnel to enter until EOD has swept for secondary devices. Extend all perimeters accordingly.
+
+
+SP OPS 7-0 — CARBON MONOXIDE RESPONSE
+----------------------------------------
+
+**CO thresholds — the three numbers to know:**
+- **9 PPM** — residential action level. At 9 PPM or below, request MUD to confirm readings, advise occupants, and recommend ventilating and having appliances serviced.
+- **35 PPM** — **SCBA required** for OFD personnel operating in the space.
+- **100 PPM** — potentially lethal with prolonged exposure; immediate evacuation required.
+
+**On-scene procedure:** Verify whether the alarm is from a smoke detector or CO detector — they require different responses. If CO detector: determine if occupants have symptoms (headache, nausea, dizziness — CO poisoning symptoms). Check for the source using OFD CO monitoring equipment. **Initiate a survey of the premises to determine if CO is present above 9 PPM.** Record results on OFD Form 280.
+
+**Response by reading:**
+- 9 PPM or less — request MUD to confirm, advise occupants, recommend ventilation and appliance service.
+- **9 PPM to 35 PPM** — ventilate, identify and shut down the malfunctioning appliance, advise occupants not to re-enter until verified safe.
+- **35 PPM or above** — don SCBA, evacuate all occupants, ventilate, identify and shut down source.
+- **CO level and occupants with symptoms regardless of reading** — treat for CO poisoning, transport to hospital, request ALS if not on scene.
+
+**Malfunctioning appliances:** If a malfunctioning appliance is identified as the CO source, shut it down. **Do not attempt any repairs or adjustments to malfunctioning equipment** — that is the appliance technician's job. Once premises are reduced to a safe CO level, the occupant may re-enter at their discretion. Advise them to contact a qualified technician before using the appliance again.
+
+**OFD Form 281:** Leave the Carbon Monoxide Detector Activation Notice of Findings with the occupant at every CO response. This form documents what was found, what action was taken, and provides the occupant with guidance on CO safety.
+
+
+SP OPS 10-0 — TRENCH RESPONSE — AWARENESS LEVEL
+-------------------------------------------------
+
+**Why trench collapse is so dangerous:** Soil is heavy — a single cubic yard of soil weighs between 1,700 and 3,000 pounds. Personnel who fall into a collapsed trench face crush injury and suffocation. **Statistics show that once a trench has collapsed, there is a 50% chance it will collapse again** — secondary collapse kills would-be rescuers who rush in without preparation. The **death rate for would-be rescuers at trench incidents approaches 112%.** Do not enter an unshored trench under any circumstances.
+
+**OSHA trench standards:** OSHA requires trench protection (shoring, sloping, or shielding) for any excavation **deeper than 5 feet.** Firefighters and bystanders must be kept out of any unsupported trench regardless of depth if there are signs of instability.
+
+**Apparatus staging — the 300-foot rule:** **Apparatus and all non-essential personnel and equipment must stage at least 300 feet from the trench.** Vibration from engines can trigger secondary collapse. Stage apparatus in the cold zone (150-300 foot radius). Do not allow apparatus engines to idle near the trench.
+
+**Zone structure at trench incidents:**
+- Hot Zone — 0 to 150 feet from the trench — only rescue personnel with proper equipment and training.
+- Warm Zone — 150 to 300 feet — support personnel.
+- **Cold Zone — 150 to 300-foot radius** — all apparatus, command post, staging, media, and non-essential personnel. Most instances the CP should be in the cold zone.
+
+**BC role at trench incident:** The BC establishes Command, requests Technical Rescue resources (R33/R60), establishes zones using the 300-foot rule, prevents untrained personnel from approaching the trench, and begins scene size-up. Approach the trench from the end (not the sides) whenever possible to reduce secondary collapse risk. Determine: number of victims, last known location, time since collapse, and trench dimensions.
+
+**Atmospheric hazards:** Trenches, like confined spaces, can contain atmospheric hazards — low oxygen, toxic gases, and suffocating gases. Before any personnel enter a trench to perform rescue, the atmosphere must be tested and continuously monitored. This is a technical rescue operation.
+
+**BC summary objective:** The best first action at a trench collapse is to prepare the scene for the arrival of the Technical Rescue Team. Establish ICS, begin size-up, secure the scene, and assist Special Operations personnel when they arrive.
+
+
+SP OPS 13-0 — CONFINED SPACE PROCEDURES
+-----------------------------------------
+
+**Confined space defined:** A space large enough to bodily enter and perform work, with limited or restricted means for entry and exit, and not designed for continuous human occupancy. Permit-required confined spaces have one or more of: contains or may contain a serious atmospheric hazard, has material that could engulf an entrant, has an internal configuration that could trap an entrant, or contains any other recognized serious safety hazard.
+
+**Initial dispatch:** R33, R60, R160, R30, E23, Papillion R3, and a Still Alarm compliment including 1 engine, 1 truck, 2 BCs, and 1 medic unit respond to confined space rescues.
+
+**Atmospheric monitoring requirements:** Before any personnel enter a confined space, the atmosphere must be tested and the results must be acceptable. Required readings:
+- **Oxygen: 19.5% to 23.5%** (normal air is 20.9%)
+- **Flammability: less than 10% LEL**
+- Hydrogen Sulfide (H2S): less than 10 PPM
+- Carbon Monoxide (CO): less than 35 PPM
+- Ammonia (NH3): less than 25 PPM
+- **Readings must be taken every 5 minutes** after initial entry and continuously during operations.
+
+**IC responsibilities at confined space:** Determine if adequate trained personnel are on scene for rescue/recovery. Develop an incident action plan using the Confined Space Rescue Checklist (Appendix A of SP OPS 13-0). Assign positions: Entry Team Leader, Backup Team, Haul Team, Atmospheric Monitoring Team, Medical Officer, Rehab Officer, Safety Officer.
+
+**Entry requirements:** Entry personnel must have proper PPE for the specific hazards identified. Respiratory protection for the victim must be considered and brought in with the entry team. **The Entry Team must know their air supply and manage it for exit before the low-air alarm activates** (same ROAM principle as interior fire operations).
+
+**Assessing the victim:** On reaching the victim, entry personnel perform an immediate primary survey. Confirm it is safe to assist the patient (no electrical hazards, victim not entangled, no ongoing gas flow). Assess and stabilize before attempting extraction. Patient retrieval equipment including a patient harness, C-collar, KED, and backboard must be pre-positioned before entry.
+
+**Permit required confined space entry permit:** OFD uses OFD Form 273 and 273a. The permit must be posted at the entry point during operations. The permit documents: space location, purpose of entry, known hazards, control measures, required PPE, atmospheric testing results, entry personnel, and rescue procedures.
+
+
+SP OPS 15-0 — BOMB / EXPLOSIVE DEVICE RESPONSE
+------------------------------------------------
+
+**OFD role:** The OFD's role at a bomb or explosive device incident is to **stand by and assist law enforcement.** Do not become involved in police functions, bomb disposal operations, or search for the device. Await instructions from law enforcement before taking any action. The Bomb Response Team (BRT) conducts all searches — fire personnel do not search for devices.
+
+**Signal 9:** Signal 9 is the OFD code for a bomb threat. When 911 announces a confirmed Signal 9, **OFD dispatches 1 Medic Unit, 1 Engine Company, and 1 Battalion Chief to the outer perimeter of the danger area.** Respond to the outer perimeter only — do not approach the inner perimeter.
+
+**Electronic communications blackout:** **Under no circumstances will any radio, cell phone, or other electronic communication be used within 300 feet of a bomb scene.** This is absolute — radio signals can detonate certain types of devices. This includes news media live broadcasts. Establish a 300-foot no-electronics perimeter immediately upon arrival.
+
+**Staging:** Stage at the outer perimeter as directed by law enforcement. Do not enter the inner perimeter until the BRT clears the area. The OPD Uniform Patrol Bureau Sergeant establishes the perimeters and directs traffic control. OFD stages, monitors, and stands by for medical emergencies.
+
+**Post-blast operations:** After an explosion, ICS applies immediately. Establish CP and staging upwind. Anticipate secondary devices — do not enter the blast area until EOD clears it. Establish medical and triage operations at a safe distance. All personnel in the hot zone must have PAT tags attached chest-high on the outside of their turnout gear.
+
+
+SP OPS 17-0 — LARGE AREA SEARCH TEAMS (LAST)
+----------------------------------------------
+
+**LAST purpose:** Large Area Search Teams provide a systematic, organized method for searching large structures (warehouses, big-box stores, large commercial buildings) for missing or trapped firefighters or victims. The LAST procedure uses search ropes, SCBA awareness, and crew integrity protocols.
+
+**LAST bag contents:** Two 20-inch tethers with locking carabiners, and the RIT-PAK — one rescue SCBA (full bottle), C5 facepiece with regulator, and a universal high-pressure charging wand that connects to another SCBA for emergency air supply to a downed firefighter (RIC/UAC connector).
+
+**Five-step LAST / firefighter rescue process:**
+1. Locate the firefighter (using PASS device sound, SEMS monitor, radio transmissions, visual contact)
+2. Provide air (using the RIT-PAK rescue SCBA and universal wand if needed)
+3. Extricate the firefighter from entrapment if present
+4. Move the firefighter to a safe location
+5. Transfer care to medical personnel
+
+**Key safety acknowledgments:** Know your hazards and limitations before entering. Ensure accountability and backup personnel are in place. Know your air supply — enter with a full cylinder. LAST egress should be the same route as entry whenever possible — have an alternative exit strategy planned before you enter.
+
+
+SP OPS 18-0 — WATERCRAFT OPERATIONS
+--------------------------------------
+
+**Dispatch zones:** East zone incidents — WR23, WR33, WR43, R33, closest truck, BC, and medic unit, with FC71 and TC1 notified. West zone incidents — WR63, WR60, WR43, R60, closest truck, BC, and medic unit, with FC71 and TC1 notified.
+
+**Personal protective equipment:** All watercraft personnel must wear a Personal Flotation Device (PFD) at all times when operating in or near the water. The PFD is the single most important piece of protective equipment in water rescue — no exceptions regardless of swimming ability. Additional equipment for watercraft operations includes dry suit, helmet, and tethering system as required by conditions.
+

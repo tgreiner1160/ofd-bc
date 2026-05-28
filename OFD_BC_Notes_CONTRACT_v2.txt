@@ -1,0 +1,234 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+UNION CONTRACT 2027 — DETAILED CLIFFS NOTES
+Source: 2024-27 CBA Contract, 145 pages
+Duration: Through December 18, 2027
+============================================================
+
+ARTICLE 1 — RECOGNITION
+-------------------------
+
+**Union recognition:** The City of Omaha recognizes the Professional Firefighters Association of Omaha, Local 385 of the International Association of Fire Fighters, as the exclusive bargaining representative for all uniformed fire suppression and EMS personnel up to and including the rank of Captain. Battalion Chiefs and above are not covered by this agreement.
+
+**BC note:** As a BC you will step outside the bargaining unit. You will be managing members who are covered by this contract. Understanding the contract is essential to your role because you are the first-line enforcer of its provisions and the first responder to potential violations.
+
+
+ARTICLE 2 — MANAGEMENT RIGHTS
+-------------------------------
+
+**City's retained authority:** Except where expressly limited by this Agreement, the City retains all rights, powers, and authority granted by Nebraska law, the Home Rule Charter, and City ordinances. These management rights include, but are not limited to: determining and implementing the objectives and goals of the City; managing and supervising all operations; directing employees; hiring, promoting, transferring, assigning, and retaining employees; suspending, demoting, discharging, or taking other disciplinary action for just cause; maintaining the efficiency of operations; determining work methods and means; establishing and enforcing rules, regulations, and personnel policies; and determining the content of work schedules.
+
+**Practical impact:** The City has broad authority to manage the department. The contract defines the limits — where the contract is silent, management generally has discretion. BCs exercise management rights daily. When in doubt about whether an action is within management's authority, consult the AC or Labor Relations before acting.
+
+
+ARTICLE 6 — DISCHARGE, DISCIPLINE, AND COUNSELINGS
+----------------------------------------------------
+
+**Just cause standard:** Any action reflecting discredit on the service or directly hindering effective city government functions is grounds for discipline. Specific causes include: excessive use of alcohol or use of illegal narcotics; insubordination; absence without leave; dishonesty; incompetence; conduct unbecoming an officer; willful violation of rules; and any off-duty conduct rendering discipline necessary for efficient city operations.
+
+**Progressive discipline levels:** Oral counseling (documented in writing) → written reprimand → suspension → termination. Discipline must be proportional to the offense and consistent with how similar conduct has been treated in the past.
+
+**Record removal:** **A written reprimand is removed from the personnel file upon employee request after 2 years with no further discipline of the same or similar nature.** **A suspension record is removed after 3 years** with no further discipline of the same or similar nature. During an investigation, the City may ask: "Have you had a counseling, written reprimand, or suspension of the same or similar nature within the past 3, 4, or 5 years respectively?" — the employee must answer truthfully.
+
+**Suspension limits:** Suspension may not exceed **20 working days** for most offenses. For serious offenses (loss of driver's license, loss of EMT certification, etc.) suspension may extend to **32 working days.** These are maximums — discipline must still be proportional.
+
+**Firefighter Bill of Rights (FFBOR) — the six key protections:**
+1. Before any interrogation of an employee regarding a matter that may result in discipline above a written reprimand, the employee must receive **48-hour written notice** of the nature of the investigation, the charges, and the time and place of interrogation.
+2. The interrogation session is **limited to 2 hours total** unless the employee agrees to extend it.
+3. The employee is allowed a **15-minute break after every 45 minutes** of interrogation. These breaks do not count toward the 2-hour limit.
+4. The employee has the right to have a **union representative present** during interrogation.
+5. The employee may not be required to take a polygraph as a condition of employment.
+6. The employee has the right to file a written response to any adverse comment placed in their file.
+
+**City may discipline without interrogating:** The City may discipline for a written reprimand without questioning the employee first. For anything above a written reprimand, the employee must be given an opportunity to tell their side before discipline is imposed.
+
+**Captain/Acting Captain liability:** Captains and Acting Captains are not held responsible for apparatus accidents unless they were personally negligent in operating or supervising the operation of the apparatus.
+
+**Working days definition:** For purpose of time limits in discipline and grievance articles, "working days" means Monday through Friday, excluding city-recognized holidays.
+
+**Annual leave and discipline:** The City may not dock an employee's annual leave as a form of discipline — suspension must be in the form of time off without pay from scheduled working shifts.
+
+
+ARTICLE 7 — PERSONNEL BOARD
+-----------------------------
+
+**Appeal rights:** Employees subject to suspension, demotion, or termination have the right to appeal to the Personnel Board. An employee may request removal of a written reprimand that is more than 2 years old from any City file (with the exception of certain administrative records). Written reprimands must be delivered while the employee is on duty or via certified mail with return receipt.
+
+
+ARTICLE 8 — GRIEVANCE PROCEDURE
+----------------------------------
+
+**Grievance defined:** A grievance is any claim by an employee arising during the term of the agreement regarding interpretation or application of the express provisions of the agreement. Grievances exclude discharge and disciplinary actions (those go to the Personnel Board). The Union may file a grievance on behalf of two or more bargaining unit members.
+
+**Grievance steps — each step has a 15-working-day timeline:**
+- **Step 1** — Employee submits grievance in writing to their immediate supervisor (Captain). The Captain has **15 working days** to respond.
+- **Step 2** — If unresolved, submit to the Battalion Chief within **15 working days** of the Step 1 response. The BC has **15 working days** to respond.
+- **Step 3** — If unresolved, submit to the Assistant Chief within **15 working days** of the Step 2 response. The AC has **15 working days** to respond.
+- **Step 4** — If unresolved, submit to arbitration within **15 working days** of the Step 3 response.
+
+**Arbitration:** An arbitrator is mutually selected by the parties from an agreed-upon list, within 30 calendar days of the written arbitration demand. If the parties cannot agree, the arbitrator is selected through the American Arbitration Association. The arbitrator's decision is final and binding.
+
+**Time limits are critical:** Failure to comply with any time limitation without a written waiver from the Labor Relations Director constitutes a withdrawal of the grievance. As a BC, you must respond within 15 working days at Step 2 — missing this deadline can result in the City's position being compromised.
+
+**BC role in grievances:** The BC's Step 2 response should be thoughtful, documented, and reviewed with the AC before submission. Do not dismiss grievances without fully investigating the facts. Most grievances are resolved at Steps 1 or 2 — the BC has significant influence over the outcome.
+
+
+ARTICLE 9 — COMPLAINT PROCEDURE
+----------------------------------
+
+**Complaint vs. grievance:** A complaint is a claim involving something other than interpretation or application of contract provisions — for example, a claim about working conditions, equipment, or assignments that does not rise to the level of a contract violation. The complaint procedure uses the same step structure as the grievance procedure but is typically resolved more informally.
+
+
+ARTICLE 10 — SENIORITY
+------------------------
+
+**Seniority basis:** Seniority is based on continuous length of service as a uniform OFD member without a break or interruption. Suspensions for disciplinary purposes, authorized leave with pay, authorized leave without pay, layoffs of 30 days or less, and demotions do not break seniority.
+
+**Furlough (vacation) bidding:** Members with seniority bid furlough periods through PowerDMS. Members may bid two five-day furlough periods per year. Bidding opens by November 1 for the following year. Furlough spots that open due to separation, military leave, or transfer are re-opened for reassignment.
+
+
+ARTICLE 11 — PROBATIONARY FIREFIGHTERS
+-----------------------------------------
+
+**Academy requirement:** All new firefighters must pass a physical examination compliant with NFPA 1582 before employment and successfully complete a training academy of **no less than 12 weeks.**
+
+**Pay probation:** The pay probation period (advancement to Firefighter Step A) consists of **6 months total, including time in the academy.** During pay probation the member is evaluated for performance and advancement.
+
+**Evaluation probation:** A separate **1-year evaluation probation** applies for purposes of performance evaluation. Probationary employees may be terminated without the full disciplinary process during the evaluation probation period.
+
+**BC note:** Probationary firefighters are in a different category than permanent employees. The progressive discipline and FFBOR protections of Article 6 apply in limited fashion during probation. Know which employees in your battalion are in probationary status.
+
+
+ARTICLE 16 — LEAVE PROVISIONS
+-------------------------------
+
+**Sick leave accrual:**
+- **24-hour shift suppression employees: 5.7 hours per payroll period** — unlimited accumulation.
+- 40-hour work week employees: 4.1 hours per payroll period — unlimited accumulation.
+- Members may use up to **120 hours of their own sick leave per payroll year for immediate family illness** (spouse, child, mother, father, brother, sister).
+- Members who use **zero sick leave and zero family sick leave** in a payroll year earn an additional **1 work day of annual leave** the following year.
+
+**Sick leave call-in:** Suppression employees must call in before **0600** for a day shift absence. The BC or designee must be notified — a voicemail to dispatch is not sufficient. The BC coordinates replacement per minimum staffing requirements.
+
+**Annual leave (vacation) accrual:**
+- Members with **less than 15 years** of service: **120 hours per year.**
+- Members with **15 or more years** of service: **240 hours per year.**
+- Annual leave is deposited at the start of the payroll year (front-loaded). Maximum accumulation of 432 hours — hours in excess of 432 are forfeited.
+
+**Annual leave open days:** Members request open days by submitting OFD 25 forms to their AC through the chain of command between November 16 and November 30 for the following year.
+
+**Sick leave payout at separation:** Employees who resign, retire, or die while employed are paid **65% of their total sick leave accumulation** at the suppression hourly rate. Payout is made on the next payroll date after separation.
+
+**Funeral leave:** Members receive paid funeral leave for the death of an immediate family member. The exact number of shifts is specified per contract provisions — verify current language. Funeral leave must be used only for funeral-related activities.
+
+**Leave of absence without pay:** Employees may request up to 6 months of unpaid leave with approval of the Fire Chief and Human Resources Director. Extensions beyond 6 months require Personnel Board approval.
+
+**Absence without leave:** Unauthorized absence is subject to disciplinary action. An employee absent without authorized leave for **2 consecutive duty shifts (suppression)** may be deemed to have resigned.
+
+
+ARTICLE 17 — HOURS OF WORK, CALL-IN, OVERTIME, AND COMP TIME
+--------------------------------------------------------------
+
+**Normal duty shift:** The 24-hour duty shift commences at **7:00 AM.** The suppression work schedule (56-hour week average, annualized) is issued one year in advance.
+
+**Minimum call-in pay:** An employee called in to work on a day off or called back after completing their shift is entitled to a minimum of **4 hours pay** at the overtime rate, even if they work fewer than 4 hours.
+
+**Overtime rate:** Work performed beyond the regularly scheduled shift is compensated at **1.5 times the employee's regular rate of pay** (time and a half).
+
+**Compensatory time:** Employees may accumulate up to a maximum of **127 hours of compensatory time** in lieu of cash overtime payment. Comp time may be cashed in at any time through the online time and attendance system. Upon retirement, members may also cash in comp time in the final payroll period.
+
+**Call-back timing windows:** Per Article 45, the two primary call-back initiation times are **0700** (AM) and **1600** (PM). If personnel leave work before **0900** and will not return, callback is initiated. If personnel leave after **0900** due to illness and won't return, the City may operate one three-person rig until the next callback period. If personnel leave after **1900**, the City may also operate one three-person rig.
+
+
+ARTICLE 21 — INJURIES IN THE LINE OF DUTY (IOD)
+-------------------------------------------------
+
+**IOD entitlement:** Any employee who sustains an injury or illness arising out of and in the course of employment, temporarily unfitting them for active duty, **shall be paid their full salary for the period of temporary disability, not to exceed 365 calendar days** for each such injury. Medical, surgical, and hospital expenses are also covered.
+
+**Filing deadline: 48 hours.** The employee must file the IOD claim through the proper channels within 48 hours of the injury or onset of illness. Late filing may result in the claim being denied. The BC must ensure the OFD 6 form and all associated IOD documentation are submitted within this window.
+
+**Determination timeline: 45 days.** The Human Resources Benefits Manager must make a determination on an IOD claim within 45 days. If the claim is denied, the employee or union may appeal to the Human Resources Director.
+
+**Sick leave and IOD interaction:** If an employee goes on IOD and has accrued sick and/or annual leave, those leave balances are deducted from IOD benefits before any payout — the employee does not receive both simultaneously.
+
+**365-day maximum:** IOD benefits continue for up to 365 calendar days per injury. After 365 days, the member may be placed on long-term disability or other leave status. The department must have approved return-to-work documentation from the treating physician before the member returns to active duty.
+
+
+ARTICLE 22 — WORKERS' COMPENSATION
+-------------------------------------
+
+**Coordination with IOD:** Workers' compensation benefits run concurrently with IOD leave. The City manages workers' compensation claims through CorVel. All questions about comp claims go through CorVel — do not contact the insurer directly. The IOD benefit (full salary) supplements any workers' comp payments during the 365-day period.
+
+
+ARTICLE 44 — STAFFING
+-----------------------
+
+**Staffing discretion:** The City has discretion to establish overall staffing, daily staffing, and staffing by rank. The City agrees to measure effectiveness against NFPA 1710 standards and CFAI criteria — but this commitment does not impose binding minimum staffing obligations.
+
+**Agreed minimum daily staffing:**
+- **184 uniformed personnel on duty per day**
+- **7 Battalion Chiefs per shift**
+- **Minimum 4 personnel per company** (engine or truck)
+- Medic units must be staffed with a minimum of 2 persons — at least one must be a state-licensed paramedic or EMT (per Section 3)
+
+**Three-person rig exceptions:** The City may operate one three-person rig under specific circumstances (personnel leaving work between 0900 and end of shift for illness if replacement cannot be immediately arranged). Additional three-person rigs may be operated per specific contractual provisions. The BC tracks three-person rig exceptions and documents them.
+
+**ALS companies:** The parties work toward having ALS-capable apparatus in every first-due fire station area. ALS assignment requires a state-licensed paramedic assigned per Article 47.
+
+
+ARTICLE 45 — CALL-BACK
+------------------------
+
+**Call-back obligation:** The Department calls back off-duty personnel when needed to maintain Article 44 staffing minimums. The call-back volunteer list is maintained electronically.
+
+**Call-back procedure — three steps:**
+1. **Step 1 (Scheduled Absences):** Contact eligible volunteers in order. The most senior volunteer gets priority consideration (though not the sole factor).
+2. **Step 2 (Unscheduled vacancies after 1000):** If voluntary call-back is unsuccessful, proceed to mandatory callback in inverse seniority order (least senior first).
+3. **Step 3 (Working Out of Classification — WOC):** If all callback lists are exhausted, use the WOC procedure per Article 28.
+
+**Call-back windows:** Primary callback is initiated at **0700 (AM period)** and **1600 (PM period).** Once the AM callback is complete (including WOC positions), the staffing obligation for that period is considered fulfilled. If a vacancy occurs after that point, a new cycle begins.
+
+**Callback pay:** All called-back personnel receive the overtime rate (1.5×) with the 4-hour minimum call-in pay per Article 17.
+
+
+ARTICLE 46 — RANDOM DRUG TESTING
+-----------------------------------
+
+**Testing groups:**
+- Group A — Fire Chief, Assistant Chiefs, Special Ops team, FIU personnel, probationary firefighters
+- Group B — all fire suppression employees
+- Group C — all other sworn fire employees
+
+**Testing frequency:** Twice per year (February 1 and July 1), the Human Resources Director may order random drug testing by station and shift. Up to four additional station/shift tests may be ordered per calendar year. All employees on duty at a given station when testing personnel arrive are subject to testing.
+
+
+ARTICLE 47 — SPECIALTY PAY
+-----------------------------
+
+**Assigned paramedic pay — 13%:** A paramedic who is **permanently assigned** to a medic unit and is fulfilling the City's obligation to staff the unit with a licensed paramedic receives a **13% specialty pay premium** above their base bi-weekly salary.
+
+**Unassigned paramedic pay — 5%:** A paramedic who holds a valid Nebraska State Paramedic license but is **not permanently assigned** to a medic unit (e.g., assigned to an engine or truck) receives a **5% specialty pay premium.**
+
+**Medic unit staffing bonus — 3%:** When a paramedic is assigned to a medic unit and an EMT student (or FF-EMT) is assigned with them, and that EMT/student is fulfilling the 2-person staffing obligation, the paramedic receives an **additional 3%** above their base bi-weekly salary for those hours.
+
+**Detached duty specialty pay:** When a paramedic not permanently assigned to a medic unit is temporarily transferred or placed on detached duty to a medic unit, they receive the "assigned paramedic" premium pay (13%) for all hours worked on the medic unit during that assignment.
+
+**$1.50/hour flat rate:** An additional $1.50 per hour specialty pay applies in certain configurations — verify current contract language for the specific conditions.
+
+**Division pay:** Employees permanently assigned or on detached duty to a 40-hour work week Division assignment receive $250.00 per month ($115.39 per pay period).
+
+**Light Air 30:** Employees permanently assigned to Light Air 30 receive $250.00 per month ($115.39 per pay period).
+
+**Specialty pay ends:** When an employee transfers out of a specialty pay position, the specialty pay ends when the transfer takes effect.
+
+
+ARTICLE 48 — PERFORMANCE APPRAISALS
+--------------------------------------
+
+**Appraisal system:** Performance appraisals use a 1-to-5 scale (Poor to Excellent). The most recent two appraisals may be used for purposes of promotions or discipline — only the two most recent. If an employee is dissatisfied with an appraisal, they may request a review from the Fire Chief and HR Director.
+
+
+ARTICLE 49 — DURATION
+-----------------------
+
+**Contract expiration:** This agreement remains in full force through **December 18, 2027,** and then continues for successive one-year periods unless one party provides written notice of intent to modify during the one-year period preceding expiration. Negotiations must begin within 30 days of the notification.
+

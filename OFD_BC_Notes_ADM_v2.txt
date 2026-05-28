@@ -1,0 +1,180 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+ADMINISTRATION SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 12–132
+============================================================
+
+ADM 1-2 — ORGANIZATIONAL STRUCTURE
+-------------------------------------
+
+**Chain of command:** The Fire Chief heads the department and maintains direct control over all operations. Assistant Chiefs report to the Fire Chief and oversee daily operations across all Divisions. **Battalion Chiefs report to Assistant Chiefs** and are responsible for supervising personnel within a Division or Operations Battalion. Fire Captains report to Battalion Chiefs and lead Operations companies or Support Division assignments. Fire Apparatus Engineers report to Captains and specialize in driving and operating heavy apparatus. Firefighters report to Captains.
+
+**Assistant Chief structure:** There are four Assistant Chiefs — three Operations ACs (Fire Car 2A, 2B, 2C) each supervising one shift and typically one administrative division, and one Administrative AC (Fire Car 3) overseeing the remaining administrative divisions. The one Administrative AC works a standard 40-hour week of four 10-hour days or five 8-hour days at the Fire Chief's discretion.
+
+**Divisions:** Operations Division (A, B, C Shifts) and Administrative Support Divisions. The EMS Shift Supervisor reports to the BC in charge of the EMS Division and assists with direction of EMS operations. The Assistant Fire Marshal reports to the BC in charge of Fire Prevention. Written communications follow the chain of command.
+
+**Battalion Chief role:** BCs are responsible for supervision of personnel in a Division or Operations Battalion. This is the position you are testing for — you report to an AC and directly supervise Captains, Engineers, and Firefighters within your assigned battalion.
+
+
+ADM 2-0 — WRITTEN POLICIES AND COMMUNICATIONS
+------------------------------------------------
+
+**Types of written orders:** General Orders affect all department members and continue indefinitely until amended or superseded. Typically issued by the Fire Chief or an AC; if issued by another Chief Officer, the Fire Chief must approve them. Bulletins are informational and generally temporary in nature.
+
+**Chain of command for written communications:** All written communications follow the chain of command. This applies to SOPs, general orders, and all formal department communications. No member bypasses the chain in written communication without authorization.
+
+
+ADM 2-1 — WRITTEN SOP MATERIALS
+----------------------------------
+
+**SOP management through PowerDMS:** The entire SOP library is maintained in PowerDMS. Each SOP is assigned to a specific position for ownership and annual review. Revisions are conducted on a continual basis — the assigned position is responsible for keeping their SOPs current and accurate.
+
+**BC relevance:** As a BC you will have SOP review responsibilities assigned to your position. You are accountable for ensuring your assigned SOPs are reviewed, accurate, and that personnel in your battalion are trained on them.
+
+
+ADM 3-0 — NEWS MEDIA AND PUBLIC INFORMATION POLICY
+----------------------------------------------------
+
+**Who speaks to media:** The Public Information Officer (PIO) coordinates all media communications. At any incident, only the IC or the PIO releases information to the press. No other personnel make public statements without authorization from the IC. The IC should contact the PIO as early as practical on working incidents.
+
+**What can be released:** Confirmed factual information about the nature of the incident, actions taken, and general status. What cannot be released: names of victims before next-of-kin notification, ongoing investigative information, information that could compromise suppression operations, and anything the IC has not authorized.
+
+**Media at the scene:** Media will not be permitted to enter buildings or homes while warrants are being executed. Fire personnel should not engage media while on duty without IC or PIO authorization. Do not comment on cause, origin, or liability.
+
+**Investigative follow-up:** Information that can be released includes follow-up information as deemed appropriate by the Fire Investigation Unit. The FIU BC and PIO coordinate on fire investigation public releases.
+
+
+ADM 3-1 — EMERGENCY RESPONSE / CALL-BACK PERSONNEL
+-----------------------------------------------------
+
+**When call-back is used:** Call-back is initiated when on-duty resources are insufficient to handle current or anticipated demand — second alarms, multiple concurrent incidents, catastrophic events, or severe weather.
+
+**Notification process:** The Paramedic Shift Supervisor and BC on duty coordinate call-back through Dispatch. The BC notifies FC2 (Operations AC) who authorizes the call-back level needed. Personnel report to their assigned quarters unless directed otherwise.
+
+**Level II Multi-Casualty Incident (mandatory response):** A Level II MCI automatically triggers call-back of off-duty personnel. The Safety Officer (FC-50) responds only at the request of the on-scene IC. Dispatch coordinates the notification.
+
+
+ADM 3-2 — INJURY / ILLNESS REPORTING PROCEDURES
+-------------------------------------------------
+
+**Reporting an on-duty injury or illness:** All injuries or illnesses occurring on duty must be reported using the OFD 6 form through the FRMS (Fire Records Management System) system. If injury occurs at a fire or medical scene, use the FRMS system on the MDT or at quarters. The supervising BC is responsible for reviewing and approving the report.
+
+**CorVel:** Workers compensation claims are managed through CorVel. All questions about compensation or denied claims go through CorVel. Personnel should not contact the insurer directly — route through proper channels.
+
+**BC-specific responsibilities:** Battalion Chiefs must review OFD 6 submissions from their battalion, provide constructive feedback to the injured employee when appropriate, and ensure the report is submitted timely and accurately. If an injury occurs on a scene, the BC documents their own observations as the supervising officer.
+
+
+ADM 3-2-1 — IOD AND LIMITED DUTY PROGRAM
+------------------------------------------
+
+**IOD (Injury on Duty) defined:** An IOD is any injury sustained while on duty in the performance of official duties. IOD status entitles the member to workers compensation benefits and, under the union contract, up to 365 days of IOD leave at full pay. (See also Union Contract Article 21 — **48-hour filing requirement, 45-day determination, 365-day max.**)
+
+**Limited duty:** Personnel on IOD who are medically able to perform light or modified duty may be assigned to limited duty positions rather than remaining fully off duty. The assignment is made by administration in coordination with the member's treating physician and CorVel.
+
+**BC role in IOD:** The BC must ensure the injured member files the OFD 6 within the required timeframe and must submit their own supervisory report. The BC documents the circumstances, witnesses, and any contributing factors. Timely, accurate documentation by the BC protects both the member and the department.
+
+
+ADM 3-2-2 — SICK LEAVE PROCEDURES
+------------------------------------
+
+**Sick leave accrual:** Per the union contract, sick leave accrues at **5.7 hours per period** for operations personnel. (Note: The contract also references 4.1 hours — confirm which rate applies to your assignment; 5.7 is the standard for suppression.)
+
+**Call-in procedure:** Personnel must call in before **0600** for a day shift absence (or 0730 per some contract provisions — know both). Call-in must be to the BC or designated supervisor, not just dispatch. The BC notifies dispatch and coordinates filling the vacancy per staffing SOPs.
+
+**Patterns and misuse:** Supervisors must monitor sick leave usage for patterns suggesting abuse — Mondays and Fridays, days before and after vacation, around holidays. The BC documents patterns and initiates corrective conversations. Disciplinary action for sick leave abuse follows the progressive discipline process under Article 6 and PERS 3-0.
+
+
+ADM 3-3 — FIRE APPARATUS / VEHICLE ACCIDENT INVESTIGATION
+-----------------------------------------------------------
+
+**Reporting requirements:** Any fire apparatus or city vehicle accident must be reported immediately to the BC on duty. The BC responds to the scene (or designates a response), ensures the OFD 127 (accident form) is completed, secures the scene if needed, and coordinates with police for any required investigation.
+
+**Drug and alcohol testing:** After any vehicle accident involving a city vehicle, the involved driver is subject to mandatory drug and alcohol testing per city policy. This is non-discretionary — the BC must ensure testing occurs promptly.
+
+**Investigation process:** The BC completes an accident investigation and submits a report through the chain of command. If the accident involves injury or significant property damage, the AC is notified immediately. All vehicles carry the necessary accident forms per OPS 1-0.
+
+
+ADM 3-5 — PERFORMANCE APPRAISAL
+----------------------------------
+
+**Annual evaluation process:** All personnel receive annual performance appraisals. Captains evaluate their company members. BCs evaluate their Captains and may review company-level evaluations. The appraisal process follows standardized forms and criteria established by administration.
+
+**BC responsibility:** Ensure all Captains in your battalion complete evaluations on time. Review Captain evaluations for consistency and fairness. Conduct your own evaluations of Captains directly. Document performance issues throughout the year — the annual evaluation should never be a surprise to the employee.
+
+
+ADM 3-6 — CITIZENS' COMPLAINTS
+---------------------------------
+
+**Complaint process:** Citizen complaints against OFD personnel are received by the BC or administration. The receiving BC documents the complaint, notifies the AC, and initiates a preliminary review. Formal complaints may be investigated at the BC level (informal resolution) or forwarded to administration for a formal investigation.
+
+**Firefighter Bill of Rights (FFBOR) — Article 6 of the contract applies:** Any member under investigation has the right to **48-hour notice before interrogation**, a **2-hour interrogation limit** with **15-minute and 45-minute breaks**, the right to a union representative, and protection against self-incrimination. These rights apply whether the investigation is initiated by a citizen complaint or internal inquiry.
+
+**Documentation:** The BC must document all steps taken, all parties contacted, and the timeline of the investigation. Incomplete documentation is a common reason disciplinary actions are overturned in arbitration.
+
+
+ADM 3-8 — SOCIAL MEDIA POLICY
+--------------------------------
+
+**Core rule:** OFD personnel shall not post, share, or publish any content that identifies patients, discloses confidential incident information, disparages the department or its members, or violates HIPAA. This applies to all platforms regardless of privacy settings — anything posted digitally can become public.
+
+**Incident photos and video:** Personnel may not post photos or video from emergency scenes while on duty or using department equipment. Media captured on personal devices at incidents may not be shared publicly. The PIO and IC control all official incident imagery.
+
+**BC responsibility:** Monitor your battalion's social media conduct. If you become aware of a policy violation, document it and report it through the chain of command immediately. Address issues before they escalate to public attention or disciplinary action.
+
+
+ADM 4-0 — CALL-BACK / MINIMUM STAFFING
+-----------------------------------------
+
+**Minimum staffing requirement:** Per the union contract, OFD must maintain **184 personnel on duty daily with 7 BCs per shift** and a minimum of **4 personnel per company.** When on-duty staffing falls below these minimums, call-back is mandatory to fill vacancies.
+
+**Call-back tiers:** The BC notifies the PSS (Paramedic Shift Supervisor) and FC2 when call-back is needed. Personnel are called back in reverse seniority order (most senior called last) for overtime within their assignment. Call-back pay is at the overtime rate per Article 45 of the contract.
+
+**BC call-back authority:** The BC on duty has authority to initiate call-back within their battalion to maintain minimum staffing. Document all call-back decisions and notify FC2 per established protocol.
+
+
+ADM 5-0 — TRANSFER REQUEST PROCEDURES
+----------------------------------------
+
+**Transfer requests:** Personnel may request a transfer to a different station or assignment by submitting an OFD transfer request form through their Captain and BC. The BC reviews the request and adds their recommendation before forwarding to the AC. Transfers are granted based on department needs, seniority, and available vacancies.
+
+**Involuntary transfers:** Administration retains the right to transfer personnel for department needs under Article 2 (Management Rights). Involuntary transfers require notice and are subject to the grievance procedure if the member believes the transfer is punitive or violates the contract.
+
+
+ADM 6-0 — PERSONAL GROOMING / HYGIENE
+----------------------------------------
+
+**Standards:** All OFD personnel must maintain a neat, professional appearance while on duty and in uniform. Hair must be maintained in a manner that does not interfere with wearing a helmet or SCBA facepiece. Facial hair must not break the SCBA seal — this is both a policy requirement and a safety standard.
+
+**BC enforcement:** BCs are responsible for ensuring the personnel in their battalion meet grooming standards. Address non-compliance privately and professionally. Repeated violations are handled through the progressive discipline process.
+
+
+ADM 7-0 — FUNERAL PROCEDURES
+------------------------------
+
+**Line-of-duty death:** In the event of a line-of-duty death, the department activates the LODD protocol which includes immediate notification of the Fire Chief and FC2, assignment of a department liaison to the family, and coordination with the union for survivor benefits. The BC on scene at time of death is responsible for scene preservation, accurate documentation, and immediate notification up the chain.
+
+**Funeral honors:** OFD provides formal funeral honors for line-of-duty deaths and may provide honors for retired members. Participation is coordinated through administration. Personnel in formal dress uniform represent the department.
+
+
+ADM 8-0 — FIRE DEPARTMENT UNIFORMS
+-------------------------------------
+
+**Uniform requirements:** All personnel must be in proper uniform while on duty. The duty uniform is the OFD-issued shirt, pants, and appropriate footwear. Class A (formal dress) uniforms are required for official functions, ceremonies, and funerals as designated by administration.
+
+**Condition and maintenance:** Uniforms must be clean, pressed, and in good repair. Damaged or worn uniforms must be replaced. The BC ensures compliance within their battalion — address uniform violations as part of professional standards.
+
+
+ADM 9-0 — FIRE DEPARTMENT AWARDS
+-----------------------------------
+
+**Award types:** OFD recognizes personnel through medals of valor, distinguished service, life saving citations, and unit citations. Nominations originate from the BC level up through the AC to the Fire Chief for approval. The BC plays a key role in identifying and documenting performance deserving recognition.
+
+**Documentation:** Awards require written narratives documenting the specific actions, circumstances, and outcomes. Poorly documented nominations are frequently returned or denied. The BC is responsible for ensuring nominations from their battalion are thorough, accurate, and submitted through proper channels.
+
+
+ADM 10-0 — TIME KEEPING PROCEDURES
+-------------------------------------
+
+**Workforce timekeeping:** All personnel use the department's timekeeping system to record attendance, overtime, sick leave, and other time entries. The Captain or BC verifies entries for their personnel. Errors or discrepancies must be corrected promptly — payroll deadlines are firm.
+
+**BC approval authority:** BCs approve overtime entries, call-back documentation, and leave requests within their battalion. Accurate timekeeping is both a fiscal responsibility and a legal requirement — errors can result in contract grievances or payroll audits.
+

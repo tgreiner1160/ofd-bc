@@ -1,0 +1,288 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+OPERATIONS SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 379–523
+============================================================
+
+OPS 1-0 — EMERGENCY RESPONSE
+------------------------------
+
+**Emergency response on city streets:** Activate all warning lights, headlights, and siren when responding to emergencies. If traffic congestion prevents forward movement, deactivate the siren — use it only when it will actually help. On the interstate responding to a scene, enter without lights or siren, activate them as you approach the incident, then protect the scene with apparatus placement. When using the interstate only to expedite travel (not going to a scene on it), run with no lights or siren and observe posted speed limits; reactivate warnings when exiting.
+
+**Transport codes for medic units:** Code 1 — minimal or no apparent injury, no lights or siren, follow traffic laws. Code 2 — obvious illness or injury, not serious, no lights or siren. The officer may upgrade a Code 2 to Code 3 when patient condition or a traffic jam warrants it — use good judgment and return to non-emergency once clear. **Code 3 — serious injury or illness needing immediate care, use lights and siren, do not exceed 45 MPH** (or the posted speed limit if it is above 45 MPH), stop at all red lights and stop signs and proceed only when the intersection is clear. Code 4 — D.O.A., no lights or siren. Code 99 — life threatening, CPR in progress, same as Code 3.
+
+**Backing apparatus:** A guide is required any time an apparatus is backed — one guide only, positioned at the left rear, always visible in the driver's side mirror. Other crew members monitor clearance and traffic from other positions. If no guide is available in an emergency, the driver must dismount and walk completely around the apparatus before backing. Backing signals: straight back — one hand above head palm toward face; turn — both arms pointing same direction index fingers extended; stop — both arms above head open palms toward driver. At night, ensure rear spotlights are on before backing.
+
+**On-scene safety for apparatus:** Keep all warning lights on while parked in a vulnerable position near a roadway. Use cones for added protection. The company officer should immediately request police traffic control and assign someone to direct traffic. Only pass other vehicles on the left side during emergency response — some drivers pull right at a siren. Do not operate sirens within 20 feet of any hospital zone unless necessary. If your siren or lights fail during a response, proceed non-emergency and notify dispatch. Apparatus should not overtake and pass another responding emergency vehicle unless one is delayed or disabled.
+
+**Seat belts and vehicle safety:** **All personnel are required to wear seat belts** when operating or riding in any city vehicle, and must remain seated while the vehicle is in motion. Apparatus compartment doors must be kept latched — check them routinely, especially after using equipment. No personnel shall place equipment (radios, helmets, tools) in an unsecured position on the apparatus. **Firefighters with less than two years of service shall not drive fire engines or trucks under emergency conditions** except when no one else is available. They may drive medic units only after completing EVOC-Ambulance and the obstacle course.
+
+**Driving through water and off-road:** Unless there is an immediate life safety threat, apparatus shall not be driven through water where depth and road conditions are unknown — water in the engine air intake will likely stall the engine and cause extensive damage. If driven through high water, submit an emergency OFD 127 immediately requesting Fleet Management inspection. No apparatus except four-wheel drive shall be driven off a hard-surfaced road unless ordered by a command officer.
+
+**Rear differential lock:** Engage only at slow speed on low-traction surfaces (mud, gravel, snow) when one wheel is slipping. Never engage on dry pavement, while turning, at high speeds, on steep side slopes, or during heavy acceleration. To engage: slow down and stop, release the accelerator to relieve torque, flip the switch to Lock, confirm with indicator light, accelerate slowly in as straight a line as possible. To disengage: stop, release accelerator, flip to unlock, confirm indicator off.
+
+
+OPS 2-1 — APPARATUS PLACEMENT
+-------------------------------
+
+**General placement principles:** Apparatus placement should reflect the tactical functions to be performed. Poor placement limits the apparatus's full potential. The first arriving units set the tone — place for maximum advantage based on the initial size-up. Avoid bumper-to-bumper placement and do not drive all apparatus directly to the fire. Later arriving companies should stage at Level I — clear of the fireground, positioned for immediate action when ordered. In complex or lengthy operations, use Level II Staging and communicate directly with the Staging Officer for additional resources.
+
+**Fireground placement priorities:** Keep a lane open when possible. Consider every piece of apparatus as an exposure. Position working apparatus with awareness of fire spread direction and collapse zones. Avoid positions with only one way in and out (yards, alleys, driveways). Watch for overhead power lines. If apparatus becomes endangered, operate lines between it and the fire while repositioning — but minimize moves. Place initial arriving pumpers in key positions with large-diameter supply lines, then build capability from those positions. Secondary hydrants should be used if demand exceeds closest hydrant capacity; don't connect to hydrants so close to the building that structural failure could jeopardize the apparatus.
+
+**IC and medical unit placement:** Command vehicle placement should maximize visibility of the fire building, adjacent area, and operating companies — announce your Command location on the fireground channel. Medical units should position for expedient treatment and rapid patient transport without egress delays.
+
+**Vehicle fire placement:** Park upwind and uphill to protect apparatus from hazardous runoff. Deploy hose lines from the side opposite traffic. Use the apparatus as a barrier shielding the scene from traffic. Keep warning lights and directional arrows operating. Use cones when warranted.
+
+
+OPS 4-0 — FIRE CONTROL
+------------------------
+
+**Offensive vs. defensive strategy:** Strategy selection is the foundational fireground decision. Offensive means interior attack — you go to the fire when conditions allow, there's potential for savable life or property, and the structure supports safe entry. Defensive means exterior operations only — master streams, aerials, deck guns, exposure protection — used when the structure is unstable, the fire is too large for interior crews, or there are no viable victims. Switching from offensive to defensive triggers OPS 10-2 (EVACUATE) or OPS 10-3 (WITHDRAW) depending on urgency. Defensive mode does not begin until all interior personnel are confirmed out and accounted for.
+
+**Exterior offensive fire attack:** Applying water from outside the structure before crews enter — through a window or door — rapidly cools the compartment, reduces the heat release rate, and improves interior conditions. FSRI research confirms this does not push fire or hot gases deeper into the structure when applied correctly. Use solid or straight streams (not fog) to maximize heat absorption and minimize air entrainment. Observe smoke color, volume, and velocity after application — no improvement means reassess fire location, stream placement, or strategy. Door control limits air entrainment and restricts fire growth during this phase.
+
+**Interior offensive attack:** Crews enter with the primary goal of putting water directly on the seat of the fire. Use a "Flow and Go" technique — "O" or inverted "U" pattern (wall-ceiling-wall) while advancing, deflecting water into the compartment ahead of entry to cool the upper gas layer and reduce flashover risk. Do not move past the fire to reach its seat. Straight or solid streams are preferred — fog patterns introduce excess air (similar to a PPV fan) and fail to provide adequate surface cooling. Managing the flow path means controlling all openings, isolating the fire compartment when located, and using door control throughout.
+
+**Offensive attack responsibilities:** Use the B.A.G. acronym (Been, At, Going) for size-up. Control all **7 sides** of the structure — front, rear, both flanks, top, bottom, and interior. **Deploy a 1¾" line flowing 150 GPM for residential and smaller fires; deploy a 2½" line flowing 260 GPM for advanced conditions, commercial occupancies, unknown fire extent, large uncompartmentalized spaces, high water demand, and standpipe operations.** Establish primary and secondary egress before going to work. Protect exposures in the most threatened direction of spread.
+
+**Defensive strategy operations:** Tactics include master streams, aerials, and deck guns from the exterior; exposure protection; and perimeter control. Switch is triggered by structural instability, fire volume beyond safe interior attack, or confirmed all-clear. **"Fire Under Control" means forward fire progress has stopped and remaining fire can be handled by on-scene resources** — it does not mean the fire is out. Command must transmit this report to Dispatch, who logs the time.
+
+
+OPS 4-1 — SEARCH AND RESCUE
+-----------------------------
+
+**Primary vs. secondary search:** Primary search is a quick sweep through all accessible affected areas to find and remove (or confirm safety of) all occupants — time is the critical factor. Secondary search is thorough interior searching conducted after the fire is controlled — thoroughness is the critical factor, and it should be done by different companies than those who performed primary. **"ALL CLEAR" is the radio report confirming primary search is complete** — Command must coordinate assignments, receive completion reports from interior companies, and transmit ALL CLEAR to Dispatch with time logged.
+
+**Rescue profile:** Before committing to search, determine the rescue profile — the probability, location, and status of potential victims and the available access and egress routes. Evaluate: occupancy type; time of day; vehicles in driveway or toys outside (high profile) vs. boarded windows or vacancy signs (lower profile); age and condition of the building; survivability of the victim; fire involvement of structural components; available resources to execute offensive attack simultaneously. Bystanders may provide location information — use it to improve size-up but do not treat it as confirmed.
+
+**Command search responsibilities:** Command must evaluate: number, location, and condition of victims; how the fire affects victims; whether forces can realistically enter, remove victims, and control fire. Prioritize rescue in this order — most severely threatened, then largest groups, then remainder of fire area, then exposed areas. Assign specific primary search assignments to companies by area in large, complex occupancies. When primary search companies encounter and remove victims, assign other companies to cover those vacated interior positions. The most urgent reason for calling additional alarms is life safety — develop a realistic and pessimistic rescue size-up early.
+
+**Hose line as life safety tool:** Advancing a hose line to attack, confine, and extinguish the fire is often the most effective life-saving action — it protects egress paths for trapped victims and eliminates the fire itself. Hose line placement becomes critical in rescue mode — it must control interior access, confine the fire, and protect avenues of escape. It may be necessary to write off the structure to buy rescue time. Once ALL CLEAR is transmitted, control re-entry — occupants and others will attempt to re-enter the building.
+
+
+OPS 5-1-5.1 — WATER SUPPLY TASK FORCE
+---------------------------------------
+
+**Water compromised areas (WCA):** Certain areas within OFD territory lack MUD hydrants or have insufficient private water systems. These are designated WCAs requiring a Water Supply Task Force (WSTF) response. Each WCA is divided into WSTF zones for water tender response.
+
+**OFD water tenders:** Water Tender 77 is at Station 77; WT71 at Station 71. Each carries 2,000 gallons with rapid unload and refill capability. WT71 can also function as an engine company (seats 4, 1,250 GPM mid-ship pump). Six engine companies also serve as pumper/tenders carrying 1,000 gallons each — located at Stations 56, 63, 65, 71, 77, and 78. A fire alarm response within a WSTF zone includes three water tenders — two shall be WT77 and WT71, the third is the closest automatic-aid water tender.
+
+**Staffing rules:** First-in water tender is staffed by the two firefighters from the respective station's medic unit. Second-in water tender is staffed by a firefighter from the engine company or at BC discretion. If no one is available to staff a tender, Fire Dispatch automatically fills in with the nearest mutual aid water tender.
+
+**Water Supply Group:** Establish a Water Supply Group supervised by a tactical-level officer when multiple resources are assigned to a water shuttle or relay — do not wait to establish this position. During working hours, the Fire Department Water Supply Specialist (Fire Car 77) shall respond for this role. A separate fireground channel shall be used for Water Supply Group communications.
+
+
+OPS 6-1 — PERSONNEL AIR MANAGEMENT
+------------------------------------
+
+**Rule of Air Management (R.O.A.M.):** Know how much air you have used and manage what remains so you leave the hazardous atmosphere before your low-air alarm activates. Check air levels before entry — **minimum 4,000 PSI required to enter a hazardous atmosphere.** The point of no return is the amount of air consumed going in versus the residual air needed to safely exit.
+
+**50% air reporting requirement:** **When the first member of any crew reaches 50% of their air supply, the crew supervisor shall radio the IC** (or immediate ICS supervisor) that the crew is at 50% air. This allows the IC to pre-plan rotation of that crew. The SEMS II Accountability Manager will also monitor and announce 50% air if the supervisor has not already reported it.
+
+**Low-air alarm activation in the IDLH:** If a crew member's low-air alarm activates inside the structure and the supervisor believes exit may be difficult, the supervisor shall radio immediately with: crew/unit ID, location, which member's alarm is ringing (by alias), whether it is Signal 88 or a MAYDAY, and how close they are to the exit. If an alarm activates and no radio report follows, and the member's location cannot be confirmed, **treat it as an emergency alarm and initiate MAYDAY procedures.** If neither the member nor supervisor can be contacted, the IC may have the Accountability Manager send an evacuation signal via SEMS to that individual or crew.
+
+**SEMS II monitoring of last 33%:** When SEMS shows a member in the IDLH has reached their **emergency reserve (last 33%)** with no radio report from their supervisor, the Accountability Manager will attempt to contact the member or supervisor to verify wellbeing and prompt a radio report. Firefighters who exit before their alarm activates may change bottles and return to service per SWD 6-0 Rehab. **Unless the Danger heat stress rule is in effect, personnel are required to go to rehab after using two SCBA cylinders.** If a firefighter does not exit before the alarm, the immediate supervisor must personally evaluate whether rehab is needed.
+
+
+OPS 10-0 — COMMUNICATION OPERATIONS
+-------------------------------------
+
+**Radio channel structure:** A1 = OFD Fire MAIN (two-way operations channel). A2 = OFD DISPATCH (listen only — you cannot transmit on A2). A3/D3 = OFD TAC 3 (used for EMS calls). A4–A15 = operational TAC channels distributed in pairs by DC911 for fire alarms, HazMat, MCI, and other complex incidents. A16 = 911 Emergency (activated by OEB or used during MAYDAY). **When a TAC is assigned (e.g., A4), the next greater odd-numbered channel (A5) is automatically and silently designated as the secondary emergency TAC for that incident** — personnel only move to it when directed by the IC.
+
+**Transmission procedures:** Call the unit you're contacting first, then give your own call sign. Always listen before transmitting — a low-pitched BONK tone means the channel is busy. Repeat back key information to confirm receipt (feedback loop). Keep all transmissions brief and business-like — no personal greetings, no "thanks" or "please," no profanity.
+
+**Dispatch types and responses:** Still Alarm (intermittent tone) — vehicle fires, trash fires, automatic alarms without evidence of fire — minimum 1 engine, BC discretion. Fire I (continuous warble) — most structure fires — **3 Engines, 1 Truck, 1 Rescue, 2 BCs, 1 Medic.** Fire II — all target hazard, high hazard properties, and all confirmed working house fires — **3 Engines, 2 Trucks, 1 Rescue, 2 BCs, 2 Medics, 1 Paramedic Shift Supervisor.** High hazard properties include high-rise buildings, nursing/care centers, hospitals, educational facilities, hotels, shopping centers, apartment buildings, industrial buildings, buildings with truss construction, large box retailers, and any confirmed working house fire. **Both R33 and R60 respond to commercial buildings and large area structures.**
+
+**Brief Initial Report (BIR):** Required on all incidents except medical-only EMS calls. Seven elements in order: (1) unit arrived on location, (2) your position relative to the building (Side Alpha, etc.), (3) description of structure and conditions including "Working Fire" if applicable, (4) your tactical assignment, (5) other units' assignments, (6) request additional resources if needed with Level II staging area, (7) assume Command, state strategic mode and TAC channel. Example: "Engine 3 on location on Side Alpha of a two-story house with fire and heavy smoke from a second-floor Delta-side window, working fire. Engine 3 is fire attack. Truck 31 initiate search. Establishing 3rd Street Command, offensive mode on TAC A4."
+
+**PAR and CAR:** During emergency operations the IC may request a PAR (Personnel Accountability Report) to account for all personnel. PAR is required at minimum: any report of a missing or trapped firefighter, any change from offensive to defensive, any sudden hazardous event (collapse, explosion, hostile fire event), and every 20 minutes of elapsed incident time. Individual crew leaders give a PAR (number of members). Group/Division supervisors give a CAR (Crew Accountability Report) aggregating all assigned companies. If PAR results in unaccounted personnel, report identity, position, and name — then initiate MAYDAY procedures.
+
+**Emergency Traffic:** Any personnel who encounters a dangerous condition or must transmit an urgently important message (other than MAYDAY or EVACUATE) uses "Emergency Traffic." The air belongs exclusively to that unit until the IC acknowledges and repeats the message. The IC then clears the air for normal traffic by announcing "Emergency Traffic is all clear, resume normal radio traffic."
+
+**MAYDAY and EVACUATE on radio:** MAYDAY = firefighter life threat. EVACUATE = immediate life-threatening danger requiring all personnel to exit immediately. WITHDRAW = orderly exit, controlled situation. Signal 88 = personnel are safe (used after accidental OEB activation). Signal 9 = bomb threat.
+
+**Requesting additional resources:** For a Fire I originally dispatched — three options: upgrade to Fire II (adds 1 Truck and 1 Medic), request one additional single resource, or request a 2nd Alarm. For Fire II — two options: one additional resource or 2nd Alarm. **Second Alarm minimum response: 2 Engines, 1 Truck, whichever Rescue was not on the 1st Alarm, 1 Medic, 1 BC, Fire Car 2.**
+
+
+OPS 10-1 — MAYDAY PROCEDURES
+------------------------------
+
+**When to call a MAYDAY:** Any time a firefighter faces a life-threatening condition in an IDLH environment. If in doubt, call it. The Mayday is the firefighter's last effort to save their own life.
+
+**Step 1 — Verbal broadcast on assigned TAC:** Key your radio and announce "MAYDAY, MAYDAY, MAYDAY" on the assigned TAC channel. Include Who (name, unit, assignment), What (your situation), and Where (location as descriptively as possible). Example: "MAYDAY, MAYDAY, MAYDAY — this is FF Smith, E-1, I fell through Division 1's floor, I am in the basement in the A-B corner." Await acknowledgment. If acknowledged, go to Step 2. If not acknowledged, go to Step 2 and make one more verbal attempt.
+
+**Step 2 — Manually activate SEMS PASS device:** Press the red center button on the front of the SEMS shoulder console. Do not turn off the PASS device — it alerts nearby firefighters and RIC to your location. If Steps 1 and 2 result in verbal acknowledgment, stop here — RIC operations are underway on the assigned TAC.
+
+**Step 3 — Activate Orange Emergency Button (OEB):** Only used when Steps 1 and 2 fail to produce verbal acknowledgment, or in non-IDLH situations (assault, Help-a-Firefighter). Push the OEB on top of the radio for more than one second. This alerts Dispatch with audible and visual alarms and automatically moves you to A16. Then push PTT and give Who/What/Where again. As an absolute last resort, turn the radio dial to A1 or A16 and broadcast verbally.
+
+**IC responsibilities during a MAYDAY:** (1) Acknowledge and repeat the Mayday on the TAC. (2) Deploy the RIC — once deployed, a replacement RIC must be immediately assigned. (3) Contact Dispatch to confirm MAYDAY and confirm additional alarm dispatched. **Mayday resources dispatched: 2 Engines, 1 Truck, 2 Medics, 2 BCs.** (4) Confirm the distressed firefighter's identity — conduct CAR/PAR, consult SEMS monitor and Dispatch alias display. **If a SEMS alarm is the only indication of a MAYDAY and cannot be positively cleared within 60 seconds, treat it as an actual MAYDAY.** (5) Continue fireground operations to keep the fire from reaching the rescue area — do not abandon firefighting positions unless there is imminent danger to all crews. (6) When the firefighter is rescued and confirmed, notify all units and Dispatch that the MAYDAY is terminated.
+
+**Channel management during MAYDAY:** When assigned TAC A4, the A5 channel is automatically designated as the secondary MAYDAY TAC. Whether to move operations to A5 or run everything on A4 is at IC discretion. The IC may also use A16 if OEB was activated. All companies stay on their current channel until the IC directs a move.
+
+
+OPS 10-2 — FIREFIGHTER EMERGENCY EVACUATION
+---------------------------------------------
+
+**What EVACUATE means:** EVACUATE is reserved exclusively for immediate life threats requiring all interior personnel to exit the building immediately — explosions, collapse, hostile fire events. When ordered, all personnel exit as quickly and safely as possible without stopping to collect equipment or hoselines unless hose is needed for protection. Use alternative egress (secondary exits, windows) if necessary — plan secondary egress before you need it.
+
+**The four-step EVACUATE sequence:**
+Step 1 — The IC or any firefighter who believes evacuation is needed announces **"EVACUATE, EVACUATE, EVACUATE"** on the assigned TAC channel.
+Step 2 — All apparatus on location **sound air horns for 10 consecutive seconds.**
+Step 3 — The Accountability Manager sends an evacuation signal from the SEMS II base to all SCBA consoles. **All personnel acknowledge by pressing the yellow button on their SEMS console twice.** The yellow SEMS evacuation signal is distinctive from the gray WITHDRAW signal.
+Step 4 — The IC contacts Dispatch to order evacuation tones and announcement. **Dispatch sets off an alert tone three times, states the address, and announces EVACUATE twice — on both the assigned TAC and A1.** Do not run your radio on scan during fireground operations — the evacuation tones could be mistaken for a dispatch tone of another incident. Only the IC monitors in scan mode.
+
+**After evacuation:** Each division/group supervisor completes a PAR and confirms exit with the IC. All company/crew leaders, including those outside the building, confirm their location and PAR. The IC must confirm ALL personnel are out before the evacuation is considered complete. MAYDAY procedures shall be initiated for any unaccounted personnel.
+
+
+OPS 10-3 — ORDERLY WITHDRAWAL
+-------------------------------
+
+**What WITHDRAW means:** WITHDRAW is reserved for controlled exits — switching from offensive to defensive, conducting an accurate PAR, or regrouping. Personnel exit in an orderly manner taking their tools, equipment, and hoselines. This is not a EVACUATE — it is a controlled, intentional movement, not driven by an imminent life threat.
+
+**The WITHDRAW procedure:** The IC announces **"WITHDRAW, WITHDRAW, WITHDRAW"** on the TAC channel, states the reason (e.g., switching to defensive mode), and makes the announcement twice. All crew leaders acknowledge and carry out the withdrawal. **All personnel hold down the gray WITHDRAW button on their SEMS II SCBA console for at least 2 seconds to send a withdrawal acknowledgment to the Accountability Manager.** The indicator light blinks yellow, then turns solid yellow when the SEMS base acknowledges receipt.
+
+**After withdrawal:** Each crew leader completes a PAR and confirms exit with the IC. All company/crew leaders on location confirm their location and PAR — including those who were not inside. The IC must confirm ALL personnel are out and accounted for before declaring the withdrawal complete. **If switching to defensive mode, defensive operations do not begin until this is confirmed.** MAYDAY procedures are initiated for any unaccounted personnel. If conditions worsen during an orderly withdrawal, the IC may upgrade it to an emergency evacuation (OPS 10-2) at any time.
+
+
+OPS 10-4 — SEVERE WEATHER MODIFIED RESPONSE
+---------------------------------------------
+
+**Definitions:** Thunderstorm Watch — conditions favorable, no guarantee, covers large area, 4-8 hours. Thunderstorm Warning — large hail ≥1 inch diameter and/or wind gusts ≥58 MPH. Tornado Warning — NWS radar confirms tornado, or a trained storm spotter reports an active funnel cloud or tornado in Douglas County, or reports of hurricane-force sustained winds ≥73 MPH.
+
+**When activated:** FC2 initiates Severe Weather Modified Procedures and notifies 911 Dispatch. Automatic mutual aid may be suspended during a Severe Weather Event at FC2 or FC1 discretion. FC2 will notify 911 Dispatch when normal response protocols resume.
+
+**Modified response procedures:** AFDS alarms — dispatch one apparatus only; "Help Wanted" for confirmed fires. Initial fire alarm — one pump, one truck, one BC; "Help Wanted" if additional resources needed or working fire declared. EMS calls — one medic unit; additional support requested by on-scene medic as needed. Hospital of Choice is suspended. The IC may leave a scene and return to service if access is impossible without damaging property, there is no evidence of smoke or fire, and no building representative is available.
+
+
+OPS 13-0 — AUTOMATIC FIRE DETECTION AND SPRINKLER RESPONSE
+------------------------------------------------------------
+
+**Core responsibility:** When OFD responds to an AFDS or sprinkler activation, the IC must ensure the building is in a fire-safe condition before the last company leaves. A triggered system that cannot be restored to service before OFD departs triggers a required response — issue an OFD 104 citing IFC 2003 Section 901.7 (evacuate the building or establish an approved fire watch until the system is back in service).
+
+**AFDS verification procedure on arrival:** Attempt to contact a building or security representative. Identify the alarm type at the panel (fire vs. water flow). Confirm which zone/floor/area is alarming. Physically investigate the alarmed area. If no fire is found, allow the building rep to silence and reset the alarm — OFD personnel should not reset it. Get the rep's name and contact number; document in the RMS narrative including alarm location in the structure and likely cause.
+
+**When to force entry:** Consider forcible entry if you cannot verify conditions from outside; if you have no specific timeframe for a rep's arrival and believe a problem exists; or if you cannot get a rep to respond and need to enter to confirm no problem exists. Document all forcible entry actions in the RMS narrative.
+
+**False alarm codes (required for billing):** Transmit to 911 as "Final Disposition" before going in-service. For residential: Good Alarm (system worked as designed), False A (alarm company rep caused it — they get billed), or False Alarm (system malfunction or construction workers). These codes go to the billing service weekly.
+
+
+OPS 15-0 — ELECTRICAL EQUIPMENT PROCEDURES
+--------------------------------------------
+
+**Core principle:** Treat all wires and equipment as energized and potentially deadly — if status is unknown, it is live. Wires on the ground that are not sparking may still be energized. Supposed "dead" wires can be re-energized through induced voltage, contact with other energized wires, or loop circuits.
+
+**Response to downed wires:** Downed wire with no injury — Police and OPPD only, no fire response. Pole fire — trash-nature response, single engine. Personal injury accident with wires down — Engine, Truck, BC. Smoke from vault or substation — size-based response. When wires are found down, park apparatus **a minimum of one pole-span from the trouble area** — adjacent spans may be under severe tension and could fail. Keep all bystanders at least one pole-span away in each direction. Fire personnel shall not leave a scene with wires down until OPPD has declared it safe.
+
+**Victim rescue from energized equipment:** Notify OPPD immediately. **Do not allow anyone to touch the victim or vehicle.** Because OFD does not carry equipment to safely handle energized wires, rescue of someone in direct contact with a live source should be avoided until OPPD de-energizes the line or proper rescue equipment is available.
+
+**Electrical equipment fires — pole transformers:** Notify OPPD and stand by for their representative. If fire is confined in metal-enclosed equipment (transformer, regulator, switch), usually best to let it burn out. If the pole itself is burning and equipment may fall, use a non-conducting agent or fog stream. Maintain at least 10 feet from energized equipment carrying ≤50,000 volts when using fog. Do not approach equipment carrying more than 50,000 volts.
+
+**Transformer vaults and manholes:** These are confined spaces — use combustible gas indicator before entry, wear SCBA, and follow confined space procedures. Request a Rescue company and have it on location before any entry into a vault. Keep the public away. Do not remove manhole covers if smoke is issuing from them — dragging a 100-lb lid can create sparks that ignite explosive atmosphere. If fire is confined to the vault, stay out until OPPD declares it safe.
+
+**Voltage testers (Philmore):** Carried on all OFD apparatus. Use only on 110-volt circuits (standard outlets and light switches). Do not use on downed lines, loose wires, or in wet conditions. Never use in low-light conditions where contact with an energized circuit is more likely.
+
+
+OPS 16-0 — ELEVATORS
+---------------------
+
+**Firefighter emergency service (recall mode):** Phase 1 recall returns all elevators to the ground floor or designated recall floor automatically via smoke detector activation or fire alarm. Phase 2 gives the fire department manual control of individual cars from the elevator cab. Elevators installed after 1985 must have a separate call button for each floor — fire-fighters cannot enter a car without first verifying it will go to the correct floor.
+
+**Using elevators at fires:** Elevators shall not be used when there is smoke present in the elevator lobby, machine room, or shaft; when the machine room is involved; when there is evidence of structural failure; or when the elevator appears to be malfunctioning. If the decision is made to use elevators to move personnel, stop the car two floors below the fire floor. Do not open the doors — feel them first. If the cab fills with smoke, hit all buttons, activate the emergency alarm, and attempt to exit at the first available floor.
+
+**Elevator rescue (person trapped):** For passenger cars, use Phase 2 firefighter operation to bring the car to the nearest floor. Before forcing entry into the shaft, make every attempt to communicate with trapped occupants. If manual operation is unavailable, contact the elevator company — forced entry into a shaft with a running elevator is extremely dangerous. Use specialized tools (elevator keys) carried on apparatus. Occupants should be instructed to press the Door Open button if available and to remain calm.
+
+
+OPS 17-0 — HELICOPTER PROCEDURES
+----------------------------------
+
+**Landing zone requirements:** A safe LZ is a minimum 100 × 100 feet of clear, firm, level ground free of overhead obstructions. Mark the LZ with TurboFlare devices at night. The Landing/Instruction Officer checks in with the helicopter via radio (B14 Med/Helo channel first; if unavailable, request a TAC patch through Dispatch). The LZ must be free of dust, debris, and any loose materials that could be ingested by the aircraft.
+
+**Safety zones around helicopter:** The tail rotor is the most dangerous component — always approach from the front where the pilot can see you. **Never approach from the rear or from the sides toward the tail.** Duck under the main rotor blades — never stand up to full height near the aircraft. No smoking within 100 feet. No emergency lights directly toward the aircraft during landing. Keep all non-essential personnel clear.
+
+**Patient transport:** Life Net transports one patient per flight in most configurations. Additional patients in the same incident are transported by ground. OFD coordinates loading and patient care with the crew. Communication with Life Net is via B14, or through a TAC-to-helicopter patch arranged by Dispatch.
+
+
+OPS 18-0 — WATER RESCUE / SWIFT WATER RESPONSE
+------------------------------------------------
+
+**Response:** Water rescue incidents dispatch OFD Water Rescue 1 (WR-1) and appropriate engine and truck companies based on the nature of the incident. Douglas County Dispatch establishes a Metro channel for multi-agency coordination. The reach-throw-row-go progression governs tactics — exhaust reach and throw before committing personnel to the water.
+
+**Omaha Water Rescue resources:** WR-1 has a 100-mile range, top speed 50 MPH, can transport multiple patients. Additional resources and access points are maintained in a pre-plan database via the OFD ArcGIS mapping system. Multiple river access sites throughout Omaha are documented including the Omaha River Front Marina and other designated sites.
+
+**Risk-benefit at water rescue:** When risk-benefit is close, the rescuer must evaluate whether the likely benefit to the victim outweighs the risk to the rescuer. Water entry rescue is a last resort when all other options are exhausted or time will not permit their use. Personnel in the water must be tethered and equipped with appropriate PPE.
+
+
+OPS 18-1 — WATER RESCUE — MULTI-AGENCY
+----------------------------------------
+
+**Unified Command:** Multi-agency water rescue incidents operate under Unified Command. Representatives from outside agencies report to the Command Post. OFD maintains operational control on land while coordinating with law enforcement and other water-capable agencies for in-water operations.
+
+
+OPS 19-0 — HIGH-RISE FIRE OPERATIONS
+---------------------------------------
+
+**High-rise definition and response:** A high-rise is any building over 55 feet (approximately 6 stories) in height. The Fire II response applies to all high-rise alarms. Use the phrase "high-rise residential building" or "high-rise commercial/office building" in the BIR.
+
+**Staging:** Establish a Base (outside), a Lobby Control (ground floor), a Staging Area (two floors below the fire floor), and a Command Post. Keep elevators under firefighter Phase 2 control. Establish separate channels for lobby control, attack, and logistics. Emergency 1 = fire floor channel. Emergency 3 = additional operations channel.
+
+**Tactical priorities:** Do not attempt roof ventilation. Attack the fire from the floor below using the building's standpipe system with OFD-approved pressure-reducing devices. Primary search extends to the fire floor and two floors above. Stairs are the primary egress route — control stairwells to prevent smoke contamination. Use the task force approach to staff the staging area with fresh companies ready to rotate.
+
+
+OPS 20-0 — ICE / WATER RESCUE TEAM
+-------------------------------------
+
+**Ice rescue principles:** The reach-throw-row-go hierarchy applies — exhaust non-entry options first. Personnel entering the ice must wear a dry suit, tethered rescue line, and ice rescue equipment. The rescue line anchor team must have a minimum of two members, and the rescuer must be able to be retrieved rapidly if conditions deteriorate.
+
+**Access to victim:** The victim may be too far from shore for throw bags or reach poles, necessitating a sled or entry rescue. Deploy the ice rescue sled horizontally for maximum weight distribution. Approach from the same direction as the victim's drift if possible. Once contact is made, the rescuer threads the rescue harness under the victim's arms and signals the shore team to retrieve.
+
+**After victim recovery:** Once the victim surfaces, ice team members guide the extraction while the shore team pulls. Treat for hypothermia immediately. Document environmental and patient conditions for the medical record.
+
+
+OPS 21-0 — EPPLEY AIRFIELD RESPONSE
+--------------------------------------
+
+**Coordination:** OFD maintains an agreement with Eppley Fire/Rescue for joint operations on Eppley Airfield. Eppley Fire communicates on the assigned OFD TAC channel. OFD units responding to Eppley must receive clearance to cross runways or taxiways — contact Eppley tower via the designated channel before crossing any active surface. Check in with on-scene IC upon arrival and obtain assignment.
+
+**Command structure:** Use a Command Chart for complex Eppley incidents — designate Divisions by geographic areas of the airfield. Establish separate Transport Loading Area staging for patient transport. Media relations follow ADM 3-0 (News Media) procedures — the PIO coordinates all public information.
+
+
+OPS 22-0 — MISSING/ABDUCTED CHILDREN
+---------------------------------------
+
+**AMBER Alert response:** When OFD responds to a missing or suspected abducted child, obtain from law enforcement: suspect description, vehicle description (make, model, color, plate), child description, direction of travel, and any prior incident history. If a suspect vehicle is spotted, OFD does not attempt to stop it — notify law enforcement immediately and follow from a safe distance only if directed.
+
+**Search procedures:** Conduct a systematic head-to-foot, outer-to-inner search of the immediate area. Maintain telephone contact with the caller until law enforcement arrives. Document all prior entries about the suspect, child, and family in the RMS narrative. The BC coordinates with law enforcement IC regarding search sector assignments. Race, physical description, and clothing of both victim and suspect are required elements in the radio report to dispatch.
+
+
+OPS 25-0 — RAPID INTERVENTION CREW (RIC)
+-----------------------------------------
+
+**IRIC — Initial Rapid Intervention Crew:** The IRIC is formed from the **first two-out firefighters** on the initial arriving engine — the two firefighters not assigned to interior attack. They begin proactive preparation immediately: thorough ongoing size-up of structure and fire, communicating the RIC action plan, maintaining accountability, preparing the equipment cache, and softening the structure (identifying and improving egress points on every floor where crews are operating).
+
+**RIC — Third-due engine:** When the third engine arrives (or another company as designated by the IC), prior to R33 or R60, they become the RIC. The RIC maintains the IRIC responsibilities, adds a full tool cache (TICs, irons, Hydra-Ram, LAST bag, box lanterns, saws, search bags, Stokes, ladders, Pak-Tracker), monitors the assigned TAC and A16 for MAYDAY transmissions (one member on A16 specifically), re-evaluates size-up using a Dynamic Risk Assessment (DRA), pulls backup lines, and continuously communicates egress points and hazards to the IC.
+
+**Rescue Company (R33/R60) as RIC:** When R33 or R60 arrives, they take over as the full RIC. **OFD policy requires a minimum 4-person RIC per NFPA 1500 and OSHA 2-in/2-out.** The Rescue Company brings additional specialized equipment and greater personnel capacity for firefighter rescue. A medic unit must be assigned to support the RIC — not to be pulled away for a civilian patient — because a MAYDAY may produce firefighter patients simultaneously.
+
+**Dynamic Risk Assessment (DRA):** An ongoing, continuous evaluation of transitory hazards — building condition, fire progress, and the operating situation are assessed repeatedly throughout the incident. Recognize hostile fire event (HFE) indicators — backdraft, flashover, or rapid uncontrolled fire growth — and proactively prevent them. If they cannot be prevented, remove personnel immediately.
+
+**RIC deployment criteria:** Deploy the RIC for: any MAYDAY declared by anyone; unaccounted personnel from a PAR; sounds of a PASS device or SCBA low-air alarm inside the IDLH; or activation of an OEB. **When a MAYDAY is not resolved in the first few minutes, the IC, RIC, and Rescue Group Supervisor must quickly establish a communications plan** — segregate fireground communications from communications with the distressed firefighter using the next odd-numbered TAC or A16.
+
+**Rescue Group Supervisor (RGS):** The RGS is assumed by an on-scene **Battalion Chief** when a firefighter emergency/MAYDAY occurs, if assigned by the IC. Until then, the RIC Captain holds these responsibilities. The RGS supervises all RICs, coordinates and approves the overall firefighter rescue plan with the IC, and maintains situational awareness of the rescue operation. With multiple RICs working (large building), the IC may appoint a BC as RGS or allow the R33/R60 Captain to maintain it until a MAYDAY requires a BC.
+
+**Communications during MAYDAY — with OEB activation:** Distressed firefighter goes to A16 via OEB. Everyone else stays on assigned TAC (e.g., A4) for continued fireground ops. RIC operates on whatever channel the distressed firefighter is on. RGS communicates on the channel designated by the IC. IC remains on the TAC and also monitors A16.
+
+**Communications during MAYDAY — without OEB activation:** Distressed firefighter stays on assigned TAC (e.g., A4). IC moves everyone else to the odd-numbered TAC (e.g., A5). RGS and RIC operate on the MAYDAY TAC with the downed firefighter. RIC monitors A16 simultaneously with one member.
+
+**RIC tool cache:** TICs, irons, Hydra-Ram, LAST bag with rescue SCBA, box lanterns, rotary and chain saws, search bags, Stokes basket, ladders, Pak-Tracker. RIC assignments: accountability, Pak-Tracker deployment, softening structure, laddering egress points, monitoring communications, continuous DRA, scene lighting, controlling utilities.
+
+
+OPS 28-0 — WILDLAND/URBAN INTERFACE (WUI)
+-------------------------------------------
+
+**Purpose:** As urban areas expand into rural/wildland areas, OFD faces unconventional challenges — undefined fire/structure boundaries, difficult topography, limited water resources, and tactics that differ from structural firefighting. This SOP establishes response procedures for WUI incidents.
+
+**LCES (Lookouts, Communications, Escape Routes, Safety Zones):** The foundation of wildland firefighting safety. Before committing crews, establish: a designated Lookout to monitor fire behavior and report changes; reliable Communications between all operating personnel; identified Escape Routes for each crew; and established Safety Zones where crews can survive if fire overruns them. Every firefighter must know these before engaging the fire.
+
+**10 Standard Orders:** Always fight fire aggressively but provide for safety first. Initiate all action based on current and expected fire behavior. Recognize current weather conditions and obtain forecasts. Ensure instructions are given and understood. Obtain current information on fire status. Remain in communication with crew members, supervisor, and adjoining forces. Determine safety zones and escape routes. Establish lookouts in potentially hazardous situations. Retain control under all conditions. Stay alert, keep calm, think clearly, act decisively.
+
+**WUI Task Force response:** When a WUI incident warrants additional resources, an OFD WUI Task Force is assembled to provide coordinated suppression, structure protection, and life safety operations within the interface area.
+

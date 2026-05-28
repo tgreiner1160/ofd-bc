@@ -1,0 +1,180 @@
+OFD BATTALION CHIEF EXAM — STUDY NOTES
+ICS SOPs — DETAILED CLIFFS NOTES
+Source: BC_SOPs.pdf, pages 261–367
+============================================================
+
+ICS 1-0 — INCIDENT COMMAND SYSTEM OVERVIEW
+--------------------------------------------
+
+**ICS is modular and scalable:** The ICS organizational structure expands from the top down based on the size and complexity of the incident. Only those elements needed at a particular incident are activated. The Incident Commander (IC) can be an engine Captain at a small incident or the Fire Chief at a major event — the title applies equally regardless of rank.
+
+**Five functional sections:** Command (IC), Operations, Planning, Logistics, and Finance/Administration. Not all sections are activated at every incident. At most structure fires, only Command and Operations are formally established. Planning, Logistics, and Finance are activated at extended or complex incidents.
+
+**Unity of command:** Every person at an incident has one — and only one — supervisor. This is non-negotiable in ICS. Freelancing (operating without an assigned supervisor or outside your assigned area) is prohibited and is a leading cause of firefighter injuries and deaths.
+
+**Span of control:** The manageable span of control is **3 to 7 resources, with 5 being optimal.** When a supervisor has more than 7 resources, additional ICS positions must be created to maintain effective supervision.
+
+
+ICS 1-1 — ICS TERMINOLOGY AND DEFINITIONS
+-------------------------------------------
+
+**Key command positions:** The Incident Commander (IC) holds overall responsibility for all incident activities. The Command Staff consists of the Safety Officer, Public Information Officer (PIO), and Liaison Officer — all report directly to the IC. The General Staff consists of the Operations Section Chief, Planning Section Chief, Logistics Section Chief, and Finance/Administration Section Chief.
+
+**Operations structure:** Operations is divided into Branches, Divisions, and Groups. Divisions are geographic (Division A = Alpha/front side, Division B = Bravo/left side, etc.). Groups are functional (Search Group, Ventilation Group, Medical Group). A Branch is activated when the number of Divisions or Groups exceeds the IC's span of control.
+
+**Tactical level vs. task level:** Division/Group Supervisors operate at the tactical level — they execute the IC's strategy. Company officers and crews operate at the task level — they execute specific assignments. The BC typically operates at the tactical level as a Division/Group Supervisor or as the IC on initial attack incidents.
+
+**Key terms:** Assigned — working on a specific tactical assignment. Available — staged and ready for assignment. Out-of-Service — unable to respond (mechanical, injury, etc.). Staging — holding area for available resources. Rehab — area where personnel rest, rehydrate, and are medically monitored between assignments.
+
+**Assisting vs. cooperating agency:** An assisting agency provides personnel, services, or resources to the agency responsible for the incident. A cooperating agency provides assistance other than operational (e.g., providing expertise or equipment). Mutual aid agencies are typically assisting agencies.
+
+
+ICS 1-2 — MODULAR ORGANIZATION
+---------------------------------
+
+**Building the ICS structure:** At the smallest incidents (single company), the Captain functions as both IC and tactical operator — there is no formal ICS structure needed. As incidents grow, the IC first establishes Command, then activates Operations when more than 5-7 companies are working. Planning and Logistics are activated when the incident extends beyond the initial operational period or requires significant resource ordering.
+
+**Single vs. unified command:** Single command means one IC from one agency. Unified command is used when multiple agencies have jurisdictional authority or functional responsibility for an incident. In Unified Command, all agencies share command authority but the command structure is coordinated through a single Incident Action Plan. OFD activates Unified Command at complex incidents involving law enforcement, public utilities, or multiple jurisdictions.
+
+**Incident Action Plan (IAP):** Every incident has an IAP, even if it is only mental at small incidents. At larger incidents, the IAP is written and formally communicated at operational briefings. The IAP includes: incident objectives, organizational structure, resource assignments, safety message, and communications plan.
+
+
+ICS 2-0 — INCIDENT COMMAND
+-----------------------------
+
+**IC responsibilities:** The IC is responsible for all incident activities — life safety, incident stabilization, and property conservation, in that order. The IC sets strategy (offensive or defensive), assigns tactical objectives to Division/Group Supervisors, requests and releases resources, and is ultimately responsible for the safety and welfare of all personnel.
+
+**Risk management:** The IC applies risk management principles at every incident — accepting risk proportional to the potential benefit. The OFD standard: **we will risk a lot to save a savable life, we will risk a little to save savable property, and we will risk nothing to save what is already lost.** This principle, along with the rescue profile assessment from OPS 4-1, drives every major decision.
+
+**Command modes:** Command may be exercised in three modes. In **Nothing Showing** mode, the IC remains at the command vehicle and manages through radio — appropriate when nothing is confirmed. In **Fast Attack** mode, the first-arriving Captain briefly goes to work with their crew before transferring command to an arriving BC — time is critical and a tactical need exists. In **Command** mode, the IC stays at the command post and manages the entire operation — appropriate when the incident is complex and the IC must maintain overall situational awareness. **The BC arriving on scene should receive command from the Captain using the Command Transfer Report (CTR)** and assume full command.
+
+**Fireground priorities:** (1) Life Safety — remove occupants and protect firefighters. (2) Incident Stabilization — stop the forward progress of the incident. (3) Property Conservation — minimize damage beyond what fire or emergency has already caused. These priorities are sequential but may overlap.
+
+
+ICS 2-1 — COMMAND PROCEDURES
+-------------------------------
+
+**Transfer of command:** Command transfers from the initial arriving officer to a later arriving senior officer through a face-to-face Command Transfer Report (CTR). The CTR contains: current situation, location and assignment of resources, status of control efforts, anticipated course of the incident, injuries/victims, and other pertinent information. The receiving officer acknowledges the CTR and announces on the radio that they are assuming Command.
+
+**Passing command:** In some situations the first arriving Captain goes to work immediately (Working Command or Fast Attack mode) and announces they will be passing command to the next arriving officer. The next arriving officer contacts the initial Captain upon arrival to receive the CTR and then announces they are assuming Command.
+
+**Incident objectives (SMART):** Objectives must be Specific, Measurable, Action-oriented, Realistic, and Time-sensitive. The IC's objectives drive all tactical assignments. At a structure fire, typical objectives might be: complete primary search within 10 minutes, confine fire to the room of origin, establish water supply within 5 minutes.
+
+**Strategic mode announcements:** The IC must announce the strategic mode (offensive or defensive) at the time of the BIR and whenever the mode changes. A change from offensive to defensive triggers EVACUATE or WITHDRAW procedures per OPS 10-2 and 10-3. The mode change must be announced on the radio and confirmed with a PAR before defensive operations begin.
+
+
+ICS 2-2 — INCIDENT SAFETY OFFICER (ISO) PROCEDURES
+-----------------------------------------------------
+
+**ISO role:** The Incident Safety Officer (ISO) monitors conditions and activities to identify and correct safety hazards. The ISO has the authority to **stop any unsafe operation immediately** without consulting the IC — this is one of the few positions in ICS with authority to bypass the chain of command in an emergency. The ISO reports findings and corrective actions to the IC.
+
+**When ISO is required:** An ISO shall be assigned at all working fires, hazmat incidents, technical rescues, and any incident where the complexity warrants dedicated safety oversight. The ISO is typically the first Command Staff position activated beyond the IC.
+
+**Assistant Safety Officers (ASOs):** At large or complex incidents, ASOs may be assigned to specific areas or functions (e.g., an ASO for the Alpha Division, an ASO for the HazMat Group). All ASOs report to the ISO.
+
+
+ICS 2-3 — ACCOUNTABILITY
+--------------------------
+
+**Accountability system components:** OFD uses a layered accountability system combining PAT (Personnel Accountability Tags) cards, SEMS II (Scott Electronic Management System), ICS riding position tracking, and the Entry Control Chart. These systems work together — none works alone. See also SWD 1-1 (Personnel Accountability) and SWD 1-3 (SEMS II).
+
+**PAT (Personnel Accountability Tag):** Each member has a PAT tag attached to their SCBA. When a company reports to the Entry Control Point, the Captain submits all crew PATs on the PAT Ring. The Accountability Manager (typically assigned to the SEMS base station) maintains the PAT Ring and tracks who is inside.
+
+**AWOGS SCBA Identification:** All frontline apparatus carry AWOGS identifiers — nomex tags that attach to SCBA straps. The larger identifier attaches to the rear bottle strap; the smaller attaches to the right shoulder strap. These allow visual identification of crew assignment from a distance.
+
+**Entry Control:** The Entry Control officer is positioned at the primary entry point to the hazardous area. Every member entering documents entry time and air supply. Exit time is documented when members come out. Unaccounted members are immediately reported to the IC and MAYDAY procedures are initiated.
+
+**SEMS II:** The SEMS II base station monitors all SCBA-equipped personnel inside the hazard zone. It displays each member's alias, PASS alarm status, EVAC signal, and WITHDRAW acknowledgment. The Accountability Manager operates the SEMS base and monitors for alarms. See SWD 1-3 for full SEMS II procedures.
+
+
+ICS 2-4 — STAGING PROCEDURES
+-------------------------------
+
+**Level I Staging:** All companies arriving after the initial alarm assignment stage at Level I — hold at a location clear of the fireground, approximately one block away, and await assignment from the IC. This keeps the fireground from becoming congested and maintains tactical flexibility.
+
+**Level II Staging:** Activated when a second alarm or greater is dispatched, or when the IC anticipates needing significant additional resources. A Staging Area and Staging Officer are established. Resources report to the Staging Area and are assigned from there. The Staging Officer tracks available resources and communicates with the IC.
+
+**Staging location:** The Staging Officer should choose a location that allows easy access to the fireground without creating congestion, is visible and identifiable, and has capacity for the expected number of resources. The IC announces the Staging Area location in the BIR or as soon as it is established.
+
+
+ICS 3-0 — HIGH-RISE FIRE OPERATIONS
+--------------------------------------
+
+**High-rise definition:** Any building over 55 feet in height (approximately 6 stories). **Fire II response** dispatches automatically to all high-rise alarms. Use the phrase "high-rise residential" or "high-rise commercial" in the BIR.
+
+**Command structure for high-rise:** Establish Base (outside, staging), Lobby Control (ground floor, access control), a Staging Area (two floors below the fire floor), and the Command Post (outside or lobby level with radio communications). All operations are directed from the CP. The Lobby Control officer controls elevator access and personnel entry.
+
+**Elevator use:** Elevators may be used to move crews to two floors below the fire floor only. Never take an elevator to the fire floor. Stop the car two floors below, feel the doors before opening, and do not open the doors if smoke is present. Use Phase 2 firefighter operation (in-cab manual control) once the elevator is under fire service control.
+
+**Standpipe operations:** Attack is conducted from the floor below the fire using the building's standpipe system. OFD uses pressure-reducing devices on standpipe connections. Establish the attack line on the stairwell below the fire floor before advancing. Truck companies perform searches on the fire floor and floors above simultaneously.
+
+**Primary search:** Extends to the fire floor and at least two floors above. Primary search teams work in pairs with radio communications. All search teams report ALL CLEAR by floor to the IC as they complete each floor.
+
+**Radio channels:** Establish separate TAC channels for different functional groups — lobby control, attack, search, and logistics may each need their own channel. Limit radio traffic to essential communications.
+
+
+ICS 3-2 — LARGE AREA SEARCH
+------------------------------
+
+**Purpose:** Large area search (warehouse, big-box stores, large commercial buildings) presents unique challenges — limited visibility, complex layout, long distances from exits, and difficulty tracking crew locations. LAST (Large Area Search Teams) and search rope procedures apply.
+
+**LAST bag deployment:** Each LAST bag contains a search rope, carabiners, tethers, and a rescue SCBA (RIT-PAK). The rope is anchored at the entry point and deployed into the structure. Personnel maintain contact with the rope and each other. When crew air reaches 50%, begin withdrawal.
+
+**Crew management:** Search teams must maintain crew integrity at all times. If contact with the search rope is lost, stop, activate PASS, and announce location on the radio. The IRIC/RIC monitors search teams' progress and is positioned to respond immediately.
+
+
+ICS 4-0 — HAZARDOUS MATERIALS ICS
+-------------------------------------
+
+**ICS at HazMat incidents:** HazMat incidents use the same ICS structure as fire incidents but add specialized positions. The Hazardous Materials Group Supervisor coordinates all HazMat operations within the warm zone. An Entry Team leader, Decon Group Supervisor, and Safety Officer (trained to at least the highest level required by the incident) are key positions.
+
+**Zone structure at HazMat:** Hot Zone — immediately dangerous, requires full PPE. Warm Zone — contamination reduction corridor, decon takes place here. **Cold Zone — unrestricted area beyond the outer perimeter of the warm zone** — this is where the Command Post, Staging, and all non-hazmat operations occur. Zones are identified with banner tape. No personnel enter a more-restricted zone without proper PPE and an assignment.
+
+**BC role at HazMat:** The BC on scene is the IC until a higher-ranking officer arrives. The BC establishes zones, requests R33 and R60, establishes a Command Post upwind and uphill, and initiates ICS. The BC does not enter the Hot Zone under any circumstances — command must remain in the Cold Zone.
+
+
+ICS 5-0 — MULTI-CASUALTY INCIDENTS (MCI)
+------------------------------------------
+
+**MCI levels:** Level I MCI — 10 to 25 victims. Upon confirmation of 10 or more victims, 911 automatically dispatches a First Alarm fire response, PSS, 5 Medic Units, and 1 Mass Casualty Trailer. Level II MCI — 26 to 50 victims — adds additional resources per the zone card. Level III MCI — 51 or more victims — requires mutual aid and may activate the EOC.
+
+**Medical Branch structure:** At an MCI, establish a Medical Branch with a Medical Branch Director (typically the EMS BC or PSS). Under the Medical Branch: Triage Group (uses START triage and color-coded tags), Treatment Groups (Red for immediate, Yellow for delayed, Green for minor, Black for deceased/expectant), and Transport Group (coordinates ambulance assignments and hospital destinations).
+
+**START Triage:** Simple Triage and Rapid Treatment. Assess each victim in under 30 seconds. Check for respirations, pulse, and ability to follow commands. Red — immediate (life-threatening but survivable with rapid intervention). Yellow — delayed (serious but stable). Green — minor (walking wounded). Black — deceased or expectant (injuries not survivable with available resources). **The goal is to do the most good for the most people in the shortest time.**
+
+**Hospital distribution:** Distribute patients across multiple receiving hospitals to prevent any one facility from being overwhelmed. The Transport Group Officer coordinates with hospitals via radio through Dispatch. Do not transport all critical patients to one hospital.
+
+
+ICS 5-1 — TRIAGE TAG PROCEDURES
+----------------------------------
+
+**START Triage Tags:** OFD uses perforated triage tags with a tracking number and bar code on each tab. The Magenta "Contamination" tab is removed and discarded if there is no WMD or contamination concern. The remaining color tabs (Red, Yellow, Green, Black) correspond to triage categories and are used as patients are moved through the system.
+
+**Tag attachment:** Attach the tag to the patient at the time of triage. The tag travels with the patient through treatment and transport. Tabs removed at each stage provide a paper trail for tracking. The bar code enables digital patient tracking when scanners are available.
+
+
+ICS 6-0 — INCIDENT COMMAND FOR EMS INCIDENTS
+----------------------------------------------
+
+**EMS incident ICS:** Even at routine EMS incidents, ICS applies. The first arriving unit is the IC until a more senior officer arrives or the incident escalates. For single-unit responses, the crew leader (Captain or medic officer) functions as IC informally. For multi-unit or complex EMS incidents, formal ICS is established.
+
+**Medical Group vs. Treatment Group:** A Medical Group is assigned to a specific geographic area of a larger incident. A Treatment Group operates at the Treatment Area of an MCI. Know the distinction — at a complex incident the IC may establish both a Medical Group (for on-scene treatment) and a Transport Group (for hospital coordination).
+
+
+ICS 7-0 — REHABILITATION GROUP
+---------------------------------
+
+**Rehab is an ICS function:** Rehabilitation operates as a Group within the ICS structure at working incidents. The Rehab Group Supervisor (preferably the EMS BC or PSS) reports to the Operations Section Chief or directly to the IC at smaller incidents. The Rehab Area location is chosen by the IC or Rehab Supervisor and announced to all units.
+
+**Entry into Rehab:** Personnel enter Rehab as a company. The Rehab Group documents entry time, names, number of SCBA cylinders used, and vital signs (BP, pulse, respirations, temperature, SpO2, and CO level via CO-oximeter). **Personnel are required to go to Rehab after using two SCBA cylinders** unless the Danger heat stress level rule applies, in which case rotations are more frequent.
+
+**Release criteria:** Rehab personnel assess members before release. Personnel are cleared for duty if vital signs are within normal limits, there are no symptoms of heat stress or exhaustion, and the Rehab medic determines they can safely perform full-duty activity. Personnel not meeting criteria are held for additional rest or, if necessary, treated and transported.
+
+
+ICS 8-0 — POST-INCIDENT ANALYSIS
+----------------------------------
+
+**Hot wash:** A brief, informal debrief conducted immediately after the incident, at the scene or in quarters. The IC leads the hot wash. All personnel involved participate. The focus is on what went well, what needs improvement, and any immediate safety concerns. A hot wash should be conducted after every working fire or significant incident.
+
+**Formal PIA:** A structured Post-Incident Analysis using the OFD 401 form. Required for structure fires, Level I MCIs, Level 1 or 2 HazMat incidents, complicated extrications, technical rescues, firefighter near-miss events, and any incident the BC or AC determines warrants formal review. The PIA is submitted through the chain of command and may generate training recommendations or SOP modifications.
+
